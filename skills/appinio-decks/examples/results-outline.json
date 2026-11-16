@@ -1,0 +1,528 @@
+{
+ "title": "Snack habits 2026",
+ "style": "results",
+ "slides": [
+  {
+   "type": "cover",
+   "title": "Snack habits\nin Germany 2026",
+   "subtitle": "Germany · fieldwork 3–7 March 2026 · n = 1,204"
+  },
+  {
+   "type": "agenda",
+   "chapters": [
+    {
+     "title": "Key findings",
+     "page": 3
+    },
+    {
+     "title": "Who snacks and when",
+     "page": 5
+    },
+    {
+     "title": "Brand profiles",
+     "page": 9
+    },
+    {
+     "title": "Next steps",
+     "page": 14
+    }
+   ]
+  },
+  {
+   "type": "key_findings",
+   "findings": [
+    "Two in three Germans snack daily, and the [[evening sofa slot]] has overtaken the afternoon.",
+    "Health claims matter less than taste and price, except among under-30s.",
+    "Brand A leads awareness, but the field below it is flat and easy to break into."
+   ]
+  },
+  {
+   "type": "chapter",
+   "title": "Who snacks and when",
+   "description": "Daily routines, occasions and the moments that drive purchase"
+  },
+  {
+   "type": "section_intro",
+   "eyebrow": "Context",
+   "title": "Snacking is now a daily ritual",
+   "intro": "We asked 1,204 adults about their snacking over the past week.\nEvenings dominate, and the sofa is the new snack aisle."
+  },
+  {
+   "type": "stat",
+   "eyebrow": "Frequency",
+   "title": "Most Germans snack every day",
+   "highlight": 0,
+   "stats": [
+    {
+     "label": "Daily snackers",
+     "value": "64%",
+     "meaning": "snack at least once a day"
+    },
+    {
+     "label": "Evening share",
+     "value": "41%",
+     "meaning": "of snacks eaten after 6 pm"
+    },
+    {
+     "label": "Spend",
+     "value": "€9",
+     "meaning": "average weekly snack spend"
+    }
+   ],
+   "note": "Base: all respondents, n = 1,204"
+  },
+  {
+   "type": "chart",
+   "eyebrow": "Occasions",
+   "title": "The evening sofa slot leads every other occasion",
+   "kind": "bar",
+   "categories": [
+    "Evening at home",
+    "Afternoon at work",
+    "On the go",
+    "With friends",
+    "Late night"
+   ],
+   "series": [
+    {
+     "name": "Total",
+     "values": [
+      0.41,
+      0.27,
+      0.18,
+      0.09,
+      0.05
+     ]
+    }
+   ],
+   "number_format": "0%",
+   "takeaways": [
+    "Evening at home is the clear lead occasion.",
+    "Work snacking has fallen since 2024.",
+    "Late night is small but growing among under-30s."
+   ],
+   "note": "Q4: When did you last eat a snack? Base: n = 1,204"
+  },
+  {
+   "type": "chart",
+   "eyebrow": "By age",
+   "title": "Under-30s snack later and more often",
+   "kind": "column",
+   "categories": [
+    "Morning",
+    "Afternoon",
+    "Evening",
+    "Late night"
+   ],
+   "series": [
+    {
+     "name": "A 18–29",
+     "values": [
+      12,
+      24,
+      44,
+      20
+     ],
+     "sig": [
+      "",
+      "",
+      "",
+      "B C"
+     ]
+    },
+    {
+     "name": "B 30–44",
+     "values": [
+      14,
+      30,
+      46,
+      10
+     ],
+     "sig": [
+      "",
+      "",
+      "",
+      "C"
+     ]
+    },
+    {
+     "name": "C 45–65",
+     "values": [
+      18,
+      34,
+      42,
+      6
+     ],
+     "sig": [
+      "A",
+      "A",
+      "",
+      ""
+     ]
+    }
+   ],
+   "number_format": "0\"%\"",
+   "note": "A 18–29, B 30–44, C 45–65 · letters = significantly higher than that group (95%). Base: n = 1,204",
+   "takeaways": [
+    "Late night is an under-30 occasion: 20% vs 6% among 45–65s.",
+    "Older snackers shift to the morning and afternoon."
+   ]
+  },
+  {
+   "type": "chart",
+   "eyebrow": "Attitudes",
+   "title": "Taste beats health claims for most snackers",
+   "kind": "stacked_bar",
+   "categories": [
+    "Taste matters more than calories",
+    "I check the sugar content",
+    "I pay more for organic snacks",
+    "I prefer brands I know"
+   ],
+   "series": [
+    {
+     "name": "Strongly disagree",
+     "values": [
+      0.04,
+      0.12,
+      0.22,
+      0.06
+     ]
+    },
+    {
+     "name": "Disagree",
+     "values": [
+      0.08,
+      0.21,
+      0.31,
+      0.14
+     ]
+    },
+    {
+     "name": "Neutral",
+     "values": [
+      0.17,
+      0.25,
+      0.24,
+      0.27
+     ]
+    },
+    {
+     "name": "Agree",
+     "values": [
+      0.38,
+      0.27,
+      0.15,
+      0.35
+     ]
+    },
+    {
+     "name": "Strongly agree",
+     "values": [
+      0.33,
+      0.15,
+      0.08,
+      0.18
+     ]
+    }
+   ],
+   "colors": [
+    "8152E3",
+    "A383E5",
+    "DFE0E2",
+    "FF867E",
+    "F45A51"
+   ],
+   "number_format": "0%",
+   "note": "Q7: How much do you agree…? 5-point scale. Base: n = 1,204"
+  },
+  {
+   "type": "profile",
+   "eyebrow": "Brand image",
+   "title": "Brand A owns ‘tasty’, Brand B owns ‘healthy’",
+   "pairs": [
+    [
+     "Boring",
+     "Exciting"
+    ],
+    [
+     "Unhealthy",
+     "Healthy"
+    ],
+    [
+     "Expensive",
+     "Good value"
+    ],
+    [
+     "Bland",
+     "Tasty"
+    ],
+    [
+     "Old-fashioned",
+     "Modern"
+    ]
+   ],
+   "series": [
+    {
+     "name": "Brand A",
+     "values": [
+      3.6,
+      2.4,
+      3.1,
+      4.4,
+      3.8
+     ]
+    },
+    {
+     "name": "Brand B",
+     "values": [
+      2.8,
+      4.1,
+      2.6,
+      3.2,
+      3.4
+     ]
+    }
+   ],
+   "takeaways": [
+    "Brand A leads on taste and modernity.",
+    "Brand B’s health image does not convert into value."
+   ],
+   "note": "Mean on a 1–5 scale. Base: aware of brand, n = 812 / 640"
+  },
+  {
+   "type": "fact_cards",
+   "eyebrow": "Sample & methodology",
+   "title": "How the study was conducted",
+   "cards": [
+    {
+     "icon": "user-group",
+     "label": "Sample size",
+     "value": "n = 1,204",
+     "detail": "Representative on age and gender"
+    },
+    {
+     "icon": "user",
+     "label": "Target audience",
+     "value": "18–65",
+     "detail": "Snack buyers in the past month"
+    },
+    {
+     "icon": "mobile",
+     "label": "Method",
+     "value": "Online survey",
+     "detail": "Appinio panel, mobile-first"
+    },
+    {
+     "icon": "calendar",
+     "label": "Fieldwork",
+     "value": "3–7 March",
+     "detail": "2026"
+    },
+    {
+     "icon": "location",
+     "label": "Market",
+     "value": "Germany",
+     "detail": "Nationwide"
+    },
+    {
+     "icon": "chart-column",
+     "label": "Analysis",
+     "value": "Sig. 95%",
+     "detail": "Letters mark significant differences"
+    }
+   ]
+  },
+  {
+   "type": "table",
+   "eyebrow": "Brand funnel",
+   "title": "Brand A leads, but younger snackers are up for grabs",
+   "columns": [
+    "Brand",
+    "A 18–29",
+    "B 30–44",
+    "C 45–65",
+    "Δ vs 2025"
+   ],
+   "rows": [
+    [
+     "Brand A",
+     "74%",
+     "83%",
+     "88%",
+     "+4"
+    ],
+    [
+     "Brand B",
+     "68%",
+     "60%",
+     "55%",
+     "−3"
+    ],
+    [
+     "Brand C",
+     "49%",
+     "58%",
+     "66%",
+     "+1"
+    ],
+    [
+     "Brand D",
+     "38%",
+     "31%",
+     "22%",
+     "+6"
+    ],
+    [
+     "Brand E",
+     "21%",
+     "26%",
+     "30%",
+     "−2"
+    ]
+   ],
+   "sig": [
+    [
+     "",
+     "",
+     "A",
+     "A B",
+     ""
+    ],
+    [
+     "",
+     "B C",
+     "C",
+     "",
+     ""
+    ],
+    [
+     "",
+     "",
+     "A",
+     "A B",
+     ""
+    ],
+    [
+     "",
+     "B C",
+     "C",
+     "",
+     ""
+    ],
+    [
+     "",
+     "",
+     "A",
+     "",
+     ""
+    ]
+   ],
+   "heatmap": {
+    "bands": 4
+   },
+   "delta_columns": [
+    4
+   ],
+   "first_column_width": 420,
+   "note": "Aided awareness by age. Letters = significantly higher than that column (95%). Base: n = 1,204"
+  },
+  {
+   "type": "funnel",
+   "eyebrow": "Brand funnel",
+   "title": "Brand A loses most people between awareness and intent",
+   "stages": [
+    {
+     "value": 0.91,
+     "label": "Aided awareness",
+     "conversion": "Base for all stages"
+    },
+    {
+     "value": 0.611,
+     "label": "Consideration",
+     "conversion": "Conversion 67%"
+    },
+    {
+     "value": 0.357,
+     "label": "Purchase intention",
+     "conversion": "Conversion 58%"
+    },
+    {
+     "value": 0.227,
+     "label": "First choice",
+     "conversion": "Conversion 64%"
+    },
+    {
+     "value": 0.201,
+     "label": "Usage",
+     "conversion": "Conversion 89%"
+    }
+   ],
+   "highlight": 2,
+   "note": "Brand A. Base: n = 1,204"
+  },
+  {
+   "type": "icon_points",
+   "eyebrow": "Recommendations",
+   "title": "Three moves to win the evening",
+   "points": [
+    {
+     "icon": "light-bulb",
+     "headline": "Own the sofa",
+     "text": "Build packs and messaging around the evening at home."
+    },
+    {
+     "icon": "shopping-cart",
+     "headline": "Price for routine",
+     "text": "Daily snackers trade down quickly. Protect the entry price."
+    },
+    {
+     "icon": "sparkle",
+     "headline": "Talk taste first",
+     "text": "Lead with flavour; keep health claims for the under-30s."
+    }
+   ]
+  },
+  {
+   "type": "image",
+   "eyebrow": "Persona",
+   "title": "Meet the evening snacker",
+   "photo": "person-cooking-eating-03",
+   "body": "Late twenties, works from home two days a week and snacks while streaming. Price-aware, loyal to taste, and open to trying a new brand if a friend recommends it."
+  },
+  {
+   "type": "quote",
+   "photo": "senior-woman-phone",
+   "quote": "I don't plan my snacks. I just grab what tastes good and isn't too expensive.",
+   "name": "Respondent, 58",
+   "role": "Hamburg"
+  },
+  {
+   "type": "statement",
+   "lines": [
+    "Taste wins the evening.",
+    "[[Price keeps it there.]]"
+   ]
+  },
+  {
+   "type": "contact",
+   "people": [
+    {
+     "name": "Jane Doe",
+     "role": "Research Director",
+     "email": "jane.doe@appinio.com",
+     "photo": "woman-laptop-cafe"
+    },
+    {
+     "name": "John Roe",
+     "role": "Senior Researcher",
+     "email": "john.roe@appinio.com",
+     "photo": "team-working"
+    }
+   ]
+  },
+  {
+   "type": "back_cover"
+  }
+ ]
+}

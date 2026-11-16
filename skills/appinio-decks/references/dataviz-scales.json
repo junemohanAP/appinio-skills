@@ -1,0 +1,714 @@
+{
+ "rule": "Count the classes n in the data (a 5-point scale has n = 5; NPS has n = 3; four heatmap bands have n = 4), pick the palette by data type, then use exactly the n-step row below. Never take the first n colours of a sequential, diverging or traffic-light palette. Categorical: the first n colours, strictly in order.",
+ "palettes": {
+  "sequential": {
+   "use": "Ordered or numeric values with no midpoint: heatmap bands, ordered bins (spend, frequency, age bands as values), intensity. Lightest = lowest, darkest = highest.",
+   "colors": [
+    "#D4E0FF",
+    "#B5C9FF",
+    "#96B3FF",
+    "#779DFF",
+    "#5987FF",
+    "#3B71FF",
+    "#3463E0",
+    "#2D56C2",
+    "#2648A3",
+    "#1E3B84",
+    "#172D66"
+   ],
+   "steps": {
+    "3": [
+     "#779DFF",
+     "#3B71FF",
+     "#2D56C2"
+    ],
+    "4": [
+     "#96B3FF",
+     "#5987FF",
+     "#3463E0",
+     "#2648A3"
+    ],
+    "5": [
+     "#B5C9FF",
+     "#779DFF",
+     "#3B71FF",
+     "#2D56C2",
+     "#1E3B84"
+    ],
+    "6": [
+     "#D4E0FF",
+     "#96B3FF",
+     "#5987FF",
+     "#3463E0",
+     "#2648A3",
+     "#172D66"
+    ],
+    "7": [
+     "#D4E0FF",
+     "#96B3FF",
+     "#5987FF",
+     "#3B71FF",
+     "#3463E0",
+     "#2648A3",
+     "#172D66"
+    ],
+    "8": [
+     "#D4E0FF",
+     "#B5C9FF",
+     "#779DFF",
+     "#5987FF",
+     "#3463E0",
+     "#2D56C2",
+     "#1E3B84",
+     "#172D66"
+    ],
+    "9": [
+     "#D4E0FF",
+     "#B5C9FF",
+     "#779DFF",
+     "#5987FF",
+     "#3B71FF",
+     "#3463E0",
+     "#2D56C2",
+     "#1E3B84",
+     "#172D66"
+    ],
+    "10": [
+     "#D4E0FF",
+     "#B5C9FF",
+     "#96B3FF",
+     "#779DFF",
+     "#5987FF",
+     "#3463E0",
+     "#2D56C2",
+     "#2648A3",
+     "#1E3B84",
+     "#172D66"
+    ],
+    "11": [
+     "#D4E0FF",
+     "#B5C9FF",
+     "#96B3FF",
+     "#779DFF",
+     "#5987FF",
+     "#3B71FF",
+     "#3463E0",
+     "#2D56C2",
+     "#2648A3",
+     "#1E3B84",
+     "#172D66"
+    ]
+   }
+  },
+  "diverging": {
+   "use": "Scales with two poles and a midpoint: Likert agree/disagree, satisfied/dissatisfied, semantic differential bands. Positive pole (purple) first, neutral (#DFE0E2) in the middle for odd n, negative pole (red) last.",
+   "colors": [
+    "#8152E3",
+    "#926BE4",
+    "#A383E5",
+    "#B49CE6",
+    "#C5B5E7",
+    "#DFE0E2",
+    "#FFB9B5",
+    "#FF9F9A",
+    "#FF867E",
+    "#FF6C63",
+    "#F45A51"
+   ],
+   "steps": {
+    "2": [
+     "#8152E3",
+     "#F45A51"
+    ],
+    "3": [
+     "#8152E3",
+     "#DFE0E2",
+     "#F45A51"
+    ],
+    "4": [
+     "#8152E3",
+     "#A383E5",
+     "#FF867E",
+     "#F45A51"
+    ],
+    "5": [
+     "#8152E3",
+     "#A383E5",
+     "#DFE0E2",
+     "#FF867E",
+     "#F45A51"
+    ],
+    "6": [
+     "#8152E3",
+     "#A383E5",
+     "#C5B5E7",
+     "#FFB9B5",
+     "#FF867E",
+     "#F45A51"
+    ],
+    "7": [
+     "#8152E3",
+     "#A383E5",
+     "#C5B5E7",
+     "#DFE0E2",
+     "#FFB9B5",
+     "#FF867E",
+     "#F45A51"
+    ],
+    "8": [
+     "#8152E3",
+     "#A383E5",
+     "#B49CE6",
+     "#C5B5E7",
+     "#FFB9B5",
+     "#FF9F9A",
+     "#FF867E",
+     "#F45A51"
+    ],
+    "9": [
+     "#8152E3",
+     "#A383E5",
+     "#B49CE6",
+     "#C5B5E7",
+     "#DFE0E2",
+     "#FFB9B5",
+     "#FF9F9A",
+     "#FF867E",
+     "#F45A51"
+    ],
+    "10": [
+     "#8152E3",
+     "#926BE4",
+     "#A383E5",
+     "#B49CE6",
+     "#C5B5E7",
+     "#FFB9B5",
+     "#FF9F9A",
+     "#FF867E",
+     "#FF6C63",
+     "#F45A51"
+    ],
+    "11": [
+     "#8152E3",
+     "#926BE4",
+     "#A383E5",
+     "#B49CE6",
+     "#C5B5E7",
+     "#DFE0E2",
+     "#FFB9B5",
+     "#FF9F9A",
+     "#FF867E",
+     "#FF6C63",
+     "#F45A51"
+    ]
+   }
+  },
+  "trafficLight": {
+   "use": "Good vs bad: NPS groups, pass / watch / fail thresholds, positive vs negative change. Bad (red) first, good (green) last.",
+   "colors": [
+    "#6B032E",
+    "#A6293E",
+    "#D0434A",
+    "#FF6E5D",
+    "#FF9052",
+    "#FFCD4C",
+    "#ACD182",
+    "#88D298",
+    "#67A176",
+    "#4C795B",
+    "#2C4B3C"
+   ],
+   "steps": {
+    "2": [
+     "#FF6E5D",
+     "#88D298"
+    ],
+    "3": [
+     "#FF6E5D",
+     "#FFCD4C",
+     "#88D298"
+    ],
+    "4": [
+     "#A6293E",
+     "#FF6E5D",
+     "#88D298",
+     "#4C795B"
+    ],
+    "5": [
+     "#A6293E",
+     "#FF6E5D",
+     "#FFCD4C",
+     "#88D298",
+     "#4C795B"
+    ],
+    "6": [
+     "#A6293E",
+     "#D0434A",
+     "#FF6E5D",
+     "#88D298",
+     "#67A176",
+     "#4C795B"
+    ],
+    "7": [
+     "#A6293E",
+     "#D0434A",
+     "#FF6E5D",
+     "#FFCD4C",
+     "#88D298",
+     "#67A176",
+     "#4C795B"
+    ],
+    "8": [
+     "#A6293E",
+     "#D0434A",
+     "#FF6E5D",
+     "#FF9052",
+     "#ACD182",
+     "#88D298",
+     "#67A176",
+     "#4C795B"
+    ],
+    "9": [
+     "#A6293E",
+     "#D0434A",
+     "#FF6E5D",
+     "#FF9052",
+     "#FFCD4C",
+     "#ACD182",
+     "#88D298",
+     "#67A176",
+     "#4C795B"
+    ],
+    "10": [
+     "#6B032E",
+     "#A6293E",
+     "#D0434A",
+     "#FF6E5D",
+     "#FF9052",
+     "#ACD182",
+     "#88D298",
+     "#67A176",
+     "#4C795B",
+     "#2C4B3C"
+    ],
+    "11": [
+     "#6B032E",
+     "#A6293E",
+     "#D0434A",
+     "#FF6E5D",
+     "#FF9052",
+     "#FFCD4C",
+     "#ACD182",
+     "#88D298",
+     "#67A176",
+     "#4C795B",
+     "#2C4B3C"
+    ]
+   }
+  },
+  "categorical": {
+   "use": "Unrelated categories: brands, cuts (A, B, C), coded answers. First n colours, strictly in order. 'Other / Don't know / None' is always #C3C9D6, last, and does not count towards n.",
+   "colors": [
+    {
+     "name": "Data Blue",
+     "hex": "#779DFF"
+    },
+    {
+     "name": "Apricot",
+     "hex": "#FFAF75"
+    },
+    {
+     "name": "Purple",
+     "hex": "#8152E3"
+    },
+    {
+     "name": "Green",
+     "hex": "#88D298"
+    },
+    {
+     "name": "Red",
+     "hex": "#CD4E5F"
+    },
+    {
+     "name": "Yellow",
+     "hex": "#FFCD4C"
+    },
+    {
+     "name": "Dusty Pink",
+     "hex": "#ECA1B8"
+    },
+    {
+     "name": "Teal",
+     "hex": "#5E9A8F"
+    },
+    {
+     "name": "Lilac",
+     "hex": "#B997EF"
+    },
+    {
+     "name": "Orange",
+     "hex": "#FF7D34"
+    },
+    {
+     "name": "Ash",
+     "hex": "#6E7AA5"
+    },
+    {
+     "name": "Neon Red",
+     "hex": "#FF6C63"
+    },
+    {
+     "name": "Ski Blue",
+     "hex": "#6285E1"
+    },
+    {
+     "name": "Turquoise",
+     "hex": "#8BD9D0"
+    },
+    {
+     "name": "Periwinkle",
+     "hex": "#AEBBFF"
+    },
+    {
+     "name": "Fuchsia",
+     "hex": "#D1519E"
+    },
+    {
+     "name": "Mint Green",
+     "hex": "#AACBB7"
+    },
+    {
+     "name": "Peach",
+     "hex": "#FF9882"
+    },
+    {
+     "name": "Ochre",
+     "hex": "#F4B13B"
+    },
+    {
+     "name": "Grass Green",
+     "hex": "#67AC65"
+    }
+   ],
+   "steps": {
+    "1": [
+     "#779DFF"
+    ],
+    "2": [
+     "#779DFF",
+     "#FFAF75"
+    ],
+    "3": [
+     "#779DFF",
+     "#FFAF75",
+     "#8152E3"
+    ],
+    "4": [
+     "#779DFF",
+     "#FFAF75",
+     "#8152E3",
+     "#88D298"
+    ],
+    "5": [
+     "#779DFF",
+     "#FFAF75",
+     "#8152E3",
+     "#88D298",
+     "#CD4E5F"
+    ],
+    "6": [
+     "#779DFF",
+     "#FFAF75",
+     "#8152E3",
+     "#88D298",
+     "#CD4E5F",
+     "#FFCD4C"
+    ],
+    "7": [
+     "#779DFF",
+     "#FFAF75",
+     "#8152E3",
+     "#88D298",
+     "#CD4E5F",
+     "#FFCD4C",
+     "#ECA1B8"
+    ],
+    "8": [
+     "#779DFF",
+     "#FFAF75",
+     "#8152E3",
+     "#88D298",
+     "#CD4E5F",
+     "#FFCD4C",
+     "#ECA1B8",
+     "#5E9A8F"
+    ],
+    "9": [
+     "#779DFF",
+     "#FFAF75",
+     "#8152E3",
+     "#88D298",
+     "#CD4E5F",
+     "#FFCD4C",
+     "#ECA1B8",
+     "#5E9A8F",
+     "#B997EF"
+    ],
+    "10": [
+     "#779DFF",
+     "#FFAF75",
+     "#8152E3",
+     "#88D298",
+     "#CD4E5F",
+     "#FFCD4C",
+     "#ECA1B8",
+     "#5E9A8F",
+     "#B997EF",
+     "#FF7D34"
+    ],
+    "11": [
+     "#779DFF",
+     "#FFAF75",
+     "#8152E3",
+     "#88D298",
+     "#CD4E5F",
+     "#FFCD4C",
+     "#ECA1B8",
+     "#5E9A8F",
+     "#B997EF",
+     "#FF7D34",
+     "#6E7AA5"
+    ],
+    "12": [
+     "#779DFF",
+     "#FFAF75",
+     "#8152E3",
+     "#88D298",
+     "#CD4E5F",
+     "#FFCD4C",
+     "#ECA1B8",
+     "#5E9A8F",
+     "#B997EF",
+     "#FF7D34",
+     "#6E7AA5",
+     "#FF6C63"
+    ],
+    "13": [
+     "#779DFF",
+     "#FFAF75",
+     "#8152E3",
+     "#88D298",
+     "#CD4E5F",
+     "#FFCD4C",
+     "#ECA1B8",
+     "#5E9A8F",
+     "#B997EF",
+     "#FF7D34",
+     "#6E7AA5",
+     "#FF6C63",
+     "#6285E1"
+    ],
+    "14": [
+     "#779DFF",
+     "#FFAF75",
+     "#8152E3",
+     "#88D298",
+     "#CD4E5F",
+     "#FFCD4C",
+     "#ECA1B8",
+     "#5E9A8F",
+     "#B997EF",
+     "#FF7D34",
+     "#6E7AA5",
+     "#FF6C63",
+     "#6285E1",
+     "#8BD9D0"
+    ],
+    "15": [
+     "#779DFF",
+     "#FFAF75",
+     "#8152E3",
+     "#88D298",
+     "#CD4E5F",
+     "#FFCD4C",
+     "#ECA1B8",
+     "#5E9A8F",
+     "#B997EF",
+     "#FF7D34",
+     "#6E7AA5",
+     "#FF6C63",
+     "#6285E1",
+     "#8BD9D0",
+     "#AEBBFF"
+    ],
+    "16": [
+     "#779DFF",
+     "#FFAF75",
+     "#8152E3",
+     "#88D298",
+     "#CD4E5F",
+     "#FFCD4C",
+     "#ECA1B8",
+     "#5E9A8F",
+     "#B997EF",
+     "#FF7D34",
+     "#6E7AA5",
+     "#FF6C63",
+     "#6285E1",
+     "#8BD9D0",
+     "#AEBBFF",
+     "#D1519E"
+    ],
+    "17": [
+     "#779DFF",
+     "#FFAF75",
+     "#8152E3",
+     "#88D298",
+     "#CD4E5F",
+     "#FFCD4C",
+     "#ECA1B8",
+     "#5E9A8F",
+     "#B997EF",
+     "#FF7D34",
+     "#6E7AA5",
+     "#FF6C63",
+     "#6285E1",
+     "#8BD9D0",
+     "#AEBBFF",
+     "#D1519E",
+     "#AACBB7"
+    ],
+    "18": [
+     "#779DFF",
+     "#FFAF75",
+     "#8152E3",
+     "#88D298",
+     "#CD4E5F",
+     "#FFCD4C",
+     "#ECA1B8",
+     "#5E9A8F",
+     "#B997EF",
+     "#FF7D34",
+     "#6E7AA5",
+     "#FF6C63",
+     "#6285E1",
+     "#8BD9D0",
+     "#AEBBFF",
+     "#D1519E",
+     "#AACBB7",
+     "#FF9882"
+    ],
+    "19": [
+     "#779DFF",
+     "#FFAF75",
+     "#8152E3",
+     "#88D298",
+     "#CD4E5F",
+     "#FFCD4C",
+     "#ECA1B8",
+     "#5E9A8F",
+     "#B997EF",
+     "#FF7D34",
+     "#6E7AA5",
+     "#FF6C63",
+     "#6285E1",
+     "#8BD9D0",
+     "#AEBBFF",
+     "#D1519E",
+     "#AACBB7",
+     "#FF9882",
+     "#F4B13B"
+    ],
+    "20": [
+     "#779DFF",
+     "#FFAF75",
+     "#8152E3",
+     "#88D298",
+     "#CD4E5F",
+     "#FFCD4C",
+     "#ECA1B8",
+     "#5E9A8F",
+     "#B997EF",
+     "#FF7D34",
+     "#6E7AA5",
+     "#FF6C63",
+     "#6285E1",
+     "#8BD9D0",
+     "#AEBBFF",
+     "#D1519E",
+     "#AACBB7",
+     "#FF9882",
+     "#F4B13B",
+     "#67AC65"
+    ]
+   }
+  },
+  "gender": {
+   "use": "Any gender split.",
+   "colors": {
+    "Total": "#779DFF",
+    "Female": "#8152E3",
+    "Male": "#FF7D34",
+    "Non-binary": "#FFCD4C"
+   }
+  }
+ },
+ "questionTypes": [
+  {
+   "type": "5-point Likert / agreement scale",
+   "palette": "diverging",
+   "n": 5
+  },
+  {
+   "type": "7-point or 10/11-point bipolar scale shown as bands",
+   "palette": "diverging",
+   "n": "number of points"
+  },
+  {
+   "type": "Satisfaction scale (very dissatisfied \u2026 very satisfied)",
+   "palette": "diverging",
+   "n": "number of points"
+  },
+  {
+   "type": "NPS detractors / passives / promoters",
+   "palette": "trafficLight",
+   "n": 3
+  },
+  {
+   "type": "0\u201310 NPS raw distribution (11 bars)",
+   "palette": "trafficLight",
+   "n": 11
+  },
+  {
+   "type": "Pass / watch / fail or KPI threshold bands",
+   "palette": "trafficLight",
+   "n": "number of bands"
+  },
+  {
+   "type": "Heatmap table",
+   "palette": "sequential",
+   "n": "number of value bands (3\u20135 recommended)"
+  },
+  {
+   "type": "Frequency (never \u2026 daily), ordered bins of a numeric answer",
+   "palette": "sequential",
+   "n": "number of bins"
+  },
+  {
+   "type": "Brands, concepts, subgroups (A, B, C), coded open-text categories",
+   "palette": "categorical",
+   "n": "number of series"
+  },
+  {
+   "type": "Gender",
+   "palette": "gender",
+   "n": "number of genders shown"
+  },
+  {
+   "type": "Single-series bar chart",
+   "palette": "categorical",
+   "n": 1,
+   "note": "chart-1 Data Blue; a highlighted bar may stay chart-1 while the rest use seq step B5C9FF"
+  }
+ ]
+}

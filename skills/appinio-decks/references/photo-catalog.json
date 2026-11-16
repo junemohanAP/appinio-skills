@@ -1,0 +1,2473 @@
+[
+ {
+  "name": "christmas-season-01",
+  "category": "christmas-season",
+  "folder": "Environments/Christmas season",
+  "orientation": "portrait",
+  "source": "Choosing a present for the tree.jpg"
+ },
+ {
+  "name": "christmas-season-02",
+  "category": "christmas-season",
+  "folder": "Environments/Christmas season",
+  "orientation": "landscape",
+  "source": "Gift checklist.jpg"
+ },
+ {
+  "name": "christmas-season-03",
+  "category": "christmas-season",
+  "folder": "Environments/Christmas season",
+  "orientation": "landscape",
+  "source": "Handmade wrapping at home.jpg"
+ },
+ {
+  "name": "christmas-season-04",
+  "category": "christmas-season",
+  "folder": "Environments/Christmas season",
+  "orientation": "landscape",
+  "source": "Mulled Wine Christmas Market.png"
+ },
+ {
+  "name": "christmas-season-05",
+  "category": "christmas-season",
+  "folder": "Environments/Christmas season",
+  "orientation": "landscape",
+  "source": "Peaceful at home Christmas shopping.jpg"
+ },
+ {
+  "name": "christmas-season-06",
+  "category": "christmas-season",
+  "folder": "Environments/Christmas season",
+  "orientation": "portrait",
+  "source": "Photorealistic_cinematic_lifestyle_photo_67fd2aa2-0b83-4e27-9e44-1fdda1ca987d_2.png"
+ },
+ {
+  "name": "cities-01",
+  "category": "cities",
+  "folder": "Environments/Cities",
+  "orientation": "landscape",
+  "source": "Beijing.jpg"
+ },
+ {
+  "name": "cities-02",
+  "category": "cities",
+  "folder": "Environments/Cities",
+  "orientation": "landscape",
+  "source": "Cologne.jpg"
+ },
+ {
+  "name": "cities-03",
+  "category": "cities",
+  "folder": "Environments/Cities",
+  "orientation": "landscape",
+  "source": "London.jpg"
+ },
+ {
+  "name": "cities-04",
+  "category": "cities",
+  "folder": "Environments/Cities",
+  "orientation": "landscape",
+  "source": "Paris.jpg"
+ },
+ {
+  "name": "coworking-spaces-01",
+  "category": "coworking-spaces",
+  "folder": "Environments/Coworking spaces",
+  "orientation": "landscape",
+  "source": "microsoft-edge-FAaz8lkinzs-unsplash.jpg"
+ },
+ {
+  "name": "coworking-spaces-02",
+  "category": "coworking-spaces",
+  "folder": "Environments/Coworking spaces",
+  "orientation": "landscape",
+  "source": "windows-12mi25fTAmM-unsplash.jpg"
+ },
+ {
+  "name": "coworking-spaces-03",
+  "category": "coworking-spaces",
+  "folder": "Environments/Coworking spaces",
+  "orientation": "landscape",
+  "source": "windows-fNMsyNX7yL0-unsplash.jpg"
+ },
+ {
+  "name": "coworking-spaces-04",
+  "category": "coworking-spaces",
+  "folder": "Environments/Coworking spaces",
+  "orientation": "portrait",
+  "source": "windows-hNiNxhUfCfQ-unsplash.jpg"
+ },
+ {
+  "name": "coworking-spaces-05",
+  "category": "coworking-spaces",
+  "folder": "Environments/Coworking spaces",
+  "orientation": "portrait",
+  "source": "windows-nFwLdJNXrww-unsplash.jpg"
+ },
+ {
+  "name": "coworking-spaces-06",
+  "category": "coworking-spaces",
+  "folder": "Environments/Coworking spaces",
+  "orientation": "landscape",
+  "source": "windows-w79mIrYKcK4-unsplash.jpg"
+ },
+ {
+  "name": "home-01",
+  "category": "home",
+  "folder": "Environments/Home",
+  "orientation": "landscape",
+  "source": "Cozy_desk_iPad_coffee_candle.webp"
+ },
+ {
+  "name": "home-02",
+  "category": "home",
+  "folder": "Environments/Home",
+  "orientation": "landscape",
+  "source": "clay-banks-Mb-lGau6K5U-unsplash.jpg"
+ },
+ {
+  "name": "home-03",
+  "category": "home",
+  "folder": "Environments/Home",
+  "orientation": "landscape",
+  "source": "shutterstock_1980422114.jpg"
+ },
+ {
+  "name": "home-04",
+  "category": "home",
+  "folder": "Environments/Home",
+  "orientation": "portrait",
+  "source": "unsplash_hi3SkqB9rMI.png"
+ },
+ {
+  "name": "kitchen-cooking-01",
+  "category": "kitchen-cooking",
+  "folder": "Environments/Kitchen _ cooking",
+  "orientation": "portrait",
+  "source": "windows-G6DsFWJjm20-unsplash.jpg"
+ },
+ {
+  "name": "nature-01",
+  "category": "nature",
+  "folder": "Environments/Nature",
+  "orientation": "portrait",
+  "source": "amanshu-raikwar-ZHrbVmVu3Qc-unsplash.jpg"
+ },
+ {
+  "name": "nature-02",
+  "category": "nature",
+  "folder": "Environments/Nature",
+  "orientation": "square",
+  "source": "candid_realistic_documentary_photography_of_coral_91d1866a-0e29-48e5-9ee1-d297140139af_1.png"
+ },
+ {
+  "name": "nature-03",
+  "category": "nature",
+  "folder": "Environments/Nature",
+  "orientation": "square",
+  "source": "forest 2 (1).png"
+ },
+ {
+  "name": "nature-04",
+  "category": "nature",
+  "folder": "Environments/Nature",
+  "orientation": "square",
+  "source": "forest 2.png"
+ },
+ {
+  "name": "nature-05",
+  "category": "nature",
+  "folder": "Environments/Nature",
+  "orientation": "portrait",
+  "source": "katya-azimova-IvV_gdTuYMA-unsplash.jpg"
+ },
+ {
+  "name": "nature-06",
+  "category": "nature",
+  "folder": "Environments/Nature",
+  "orientation": "landscape",
+  "source": "shutterstock_1495079657.jpg"
+ },
+ {
+  "name": "nature-07",
+  "category": "nature",
+  "folder": "Environments/Nature",
+  "orientation": "landscape",
+  "source": "shutterstock_2113527779.jpg"
+ },
+ {
+  "name": "nature-08",
+  "category": "nature",
+  "folder": "Environments/Nature",
+  "orientation": "landscape",
+  "source": "shutterstock_2255543143.jpg"
+ },
+ {
+  "name": "nature-09",
+  "category": "nature",
+  "folder": "Environments/Nature",
+  "orientation": "landscape",
+  "source": "shutterstock_2258989515.jpg"
+ },
+ {
+  "name": "nature-10",
+  "category": "nature",
+  "folder": "Environments/Nature",
+  "orientation": "landscape",
+  "source": "shutterstock_548519860.jpg"
+ },
+ {
+  "name": "nature-11",
+  "category": "nature",
+  "folder": "Environments/Nature",
+  "orientation": "landscape",
+  "source": "unsplash_-4DL52TPcJc.png"
+ },
+ {
+  "name": "nature-appinio-return-to-earth-01",
+  "category": "nature-appinio-return-to-earth",
+  "folder": "Environments/Nature/Appinio Return to earth",
+  "orientation": "landscape",
+  "source": "DSC01291.jpg"
+ },
+ {
+  "name": "nature-appinio-return-to-earth-02",
+  "category": "nature-appinio-return-to-earth",
+  "folder": "Environments/Nature/Appinio Return to earth",
+  "orientation": "landscape",
+  "source": "DSC01386.jpg"
+ },
+ {
+  "name": "nature-appinio-return-to-earth-03",
+  "category": "nature-appinio-return-to-earth",
+  "folder": "Environments/Nature/Appinio Return to earth",
+  "orientation": "landscape",
+  "source": "DSC01405.jpg"
+ },
+ {
+  "name": "nature-appinio-return-to-earth-04",
+  "category": "nature-appinio-return-to-earth",
+  "folder": "Environments/Nature/Appinio Return to earth",
+  "orientation": "landscape",
+  "source": "DSC01624.jpg"
+ },
+ {
+  "name": "nature-appinio-return-to-earth-05",
+  "category": "nature-appinio-return-to-earth",
+  "folder": "Environments/Nature/Appinio Return to earth",
+  "orientation": "landscape",
+  "source": "DSC07568.jpg"
+ },
+ {
+  "name": "nature-appinio-return-to-earth-06",
+  "category": "nature-appinio-return-to-earth",
+  "folder": "Environments/Nature/Appinio Return to earth",
+  "orientation": "landscape",
+  "source": "Guarea grandifolia DSC0321.jpg"
+ },
+ {
+  "name": "nature-appinio-return-to-earth-07",
+  "category": "nature-appinio-return-to-earth",
+  "folder": "Environments/Nature/Appinio Return to earth",
+  "orientation": "landscape",
+  "source": "IMG_9257.jpg"
+ },
+ {
+  "name": "nature-appinio-return-to-earth-08",
+  "category": "nature-appinio-return-to-earth",
+  "folder": "Environments/Nature/Appinio Return to earth",
+  "orientation": "landscape",
+  "source": "_MG_9420.jpg"
+ },
+ {
+  "name": "supermarket-01",
+  "category": "supermarket",
+  "folder": "Environments/Supermarket",
+  "orientation": "landscape",
+  "source": "daria-strategy-BMnX7L9G5xc-unsplash.jpg"
+ },
+ {
+  "name": "transportation-01",
+  "category": "transportation",
+  "folder": "Environments/Transportation",
+  "orientation": "portrait",
+  "source": "benjamin-voros-jv15x2Gs5F8-unsplash.jpg"
+ },
+ {
+  "name": "transportation-02",
+  "category": "transportation",
+  "folder": "Environments/Transportation",
+  "orientation": "portrait",
+  "source": "jonathan-borba-2CuS4FaacJc-unsplash.jpg"
+ },
+ {
+  "name": "transportation-03",
+  "category": "transportation",
+  "folder": "Environments/Transportation",
+  "orientation": "portrait",
+  "source": "sasha-freemind-cm0eSVxdLDg-unsplash.jpg"
+ },
+ {
+  "name": "group-in-love-01",
+  "category": "group-in-love",
+  "folder": "Individuals/Group of Individuals/07 In love",
+  "orientation": "landscape",
+  "source": "shutterstock_2409700567.jpg"
+ },
+ {
+  "name": "group-in-love-02",
+  "category": "group-in-love",
+  "folder": "Individuals/Group of Individuals/07 In love",
+  "orientation": "landscape",
+  "source": "toa-heftiba-9vNFtkm-Pus-unsplash.jpg"
+ },
+ {
+  "name": "group-at-work-01",
+  "category": "group-at-work",
+  "folder": "Individuals/Group of Individuals/09 At Work",
+  "orientation": "landscape",
+  "source": "Contemplative Group of Colleagues Portrait.jpeg"
+ },
+ {
+  "name": "group-at-work-02",
+  "category": "group-at-work",
+  "folder": "Individuals/Group of Individuals/09 At Work",
+  "orientation": "square",
+  "source": "appinio.design_candid_documentary_photograph_of_a_meeting_at__3ec08e96-c8df-4ae7-b609-48534bf7212b_0.png"
+ },
+ {
+  "name": "group-at-work-03",
+  "category": "group-at-work",
+  "folder": "Individuals/Group of Individuals/09 At Work",
+  "orientation": "square",
+  "source": "appinio.design_candid_realistic_documentary_photography_of_two__2a448fc9-745e-44d9-8c90-3277b7de826d 1 1.png"
+ },
+ {
+  "name": "group-at-work-04",
+  "category": "group-at-work",
+  "folder": "Individuals/Group of Individuals/09 At Work",
+  "orientation": "portrait",
+  "source": "surface-N3pANeH2AAI-unsplash.jpg"
+ },
+ {
+  "name": "group-at-work-05",
+  "category": "group-at-work",
+  "folder": "Individuals/Group of Individuals/09 At Work",
+  "orientation": "portrait",
+  "source": "surface-t6r-r8BHj2Q-unsplash.jpg"
+ },
+ {
+  "name": "group-working-from-home-01",
+  "category": "group-working-from-home",
+  "folder": "Individuals/Group of Individuals/10 Working from home",
+  "orientation": "landscape",
+  "source": "shutterstock_2124861335.jpg"
+ },
+ {
+  "name": "group-working-from-home-02",
+  "category": "group-working-from-home",
+  "folder": "Individuals/Group of Individuals/10 Working from home",
+  "orientation": "landscape",
+  "source": "surface-Ze1s1X_DTXc-unsplash.jpg"
+ },
+ {
+  "name": "group-in-a-meeting-office-01",
+  "category": "group-in-a-meeting-office",
+  "folder": "Individuals/Group of Individuals/11 In a meeting Office",
+  "orientation": "landscape",
+  "source": "Collaborative Meeting on Modern Sofa.jpeg"
+ },
+ {
+  "name": "group-in-a-meeting-office-02",
+  "category": "group-in-a-meeting-office",
+  "folder": "Individuals/Group of Individuals/11 In a meeting Office",
+  "orientation": "landscape",
+  "source": "Pension Office Consultation Meeting.png"
+ },
+ {
+  "name": "group-in-a-meeting-office-03",
+  "category": "group-in-a-meeting-office",
+  "folder": "Individuals/Group of Individuals/11 In a meeting Office",
+  "orientation": "square",
+  "source": "candid_documentary_photograph_of_a_team_doing_mar_651a8d86-725f-435d-a5a3-e6578c314894_3.png"
+ },
+ {
+  "name": "group-sustainability-nature-01",
+  "category": "group-sustainability-nature",
+  "folder": "Individuals/Group of Individuals/12 Sustainability Nature",
+  "orientation": "landscape",
+  "source": "oppo-find-x5-pro-Nc-hc5g5yhw-unsplash.jpg"
+ },
+ {
+  "name": "group-sustainability-nature-02",
+  "category": "group-sustainability-nature",
+  "folder": "Individuals/Group of Individuals/12 Sustainability Nature",
+  "orientation": "landscape",
+  "source": "shutterstock_2326419413.jpg"
+ },
+ {
+  "name": "group-emotions-mental-health-01",
+  "category": "group-emotions-mental-health",
+  "folder": "Individuals/Group of Individuals/14 Emotions _ Mental health",
+  "orientation": "landscape",
+  "source": "shutterstock_1845843982.jpg"
+ },
+ {
+  "name": "group-at-a-bar-cafe-restaurant-01",
+  "category": "group-at-a-bar-cafe-restaurant",
+  "folder": "Individuals/Group of Individuals/At a bar _ cafe _ restaurant",
+  "orientation": "portrait",
+  "source": "ambitious-studio-rick-barrett-pw1ZmXsrmxg-unsplash.jpg"
+ },
+ {
+  "name": "group-at-home-01",
+  "category": "group-at-home",
+  "folder": "Individuals/Group of Individuals/At home",
+  "orientation": "landscape",
+  "source": "samsung-uk-_xkFkF4InmM-unsplash (1).jpg"
+ },
+ {
+  "name": "group-at-home-02",
+  "category": "group-at-home",
+  "folder": "Individuals/Group of Individuals/At home",
+  "orientation": "landscape",
+  "source": "samsung-uk-gB2UWrVPImE-unsplash.jpg"
+ },
+ {
+  "name": "group-at-home-03",
+  "category": "group-at-home",
+  "folder": "Individuals/Group of Individuals/At home",
+  "orientation": "landscape",
+  "source": "samsung-uk-uzP2t_kkMDM-unsplash.jpg"
+ },
+ {
+  "name": "group-at-the-doctor-01",
+  "category": "group-at-the-doctor",
+  "folder": "Individuals/Group of Individuals/At the doctor",
+  "orientation": "landscape",
+  "source": "shutterstock_1307544397.jpg"
+ },
+ {
+  "name": "group-cooking-eating-01",
+  "category": "group-cooking-eating",
+  "folder": "Individuals/Group of Individuals/Cooking _ Eating",
+  "orientation": "landscape",
+  "source": "24-crispbread-4J_iBZkTauk-unsplash.jpg"
+ },
+ {
+  "name": "group-cooking-eating-02",
+  "category": "group-cooking-eating",
+  "folder": "Individuals/Group of Individuals/Cooking _ Eating",
+  "orientation": "landscape",
+  "source": "annie-spratt-UyEmagArOLY-unsplash.jpg"
+ },
+ {
+  "name": "group-cooking-eating-03",
+  "category": "group-cooking-eating",
+  "folder": "Individuals/Group of Individuals/Cooking _ Eating",
+  "orientation": "portrait",
+  "source": "avi-richards-ojBNujxI2_c-unsplash.jpg"
+ },
+ {
+  "name": "group-cooking-eating-04",
+  "category": "group-cooking-eating",
+  "folder": "Individuals/Group of Individuals/Cooking _ Eating",
+  "orientation": "portrait",
+  "source": "mieke-campbell-zeVzC63jTjc-unsplash.jpg"
+ },
+ {
+  "name": "group-cooking-eating-05",
+  "category": "group-cooking-eating",
+  "folder": "Individuals/Group of Individuals/Cooking _ Eating",
+  "orientation": "portrait",
+  "source": "pexels-koolshooters-8530276.jpg"
+ },
+ {
+  "name": "group-cooking-eating-06",
+  "category": "group-cooking-eating",
+  "folder": "Individuals/Group of Individuals/Cooking _ Eating",
+  "orientation": "portrait",
+  "source": "pexels-koolshooters-8531373.jpg"
+ },
+ {
+  "name": "group-cooking-eating-07",
+  "category": "group-cooking-eating",
+  "folder": "Individuals/Group of Individuals/Cooking _ Eating",
+  "orientation": "portrait",
+  "source": "sweet-life-Xq2ugro_gPc-unsplash.jpg"
+ },
+ {
+  "name": "group-cooking-eating-08",
+  "category": "group-cooking-eating",
+  "folder": "Individuals/Group of Individuals/Cooking _ Eating",
+  "orientation": "portrait",
+  "source": "sweet-life-j14Q19jXDFQ-unsplash.jpg"
+ },
+ {
+  "name": "group-cooking-eating-09",
+  "category": "group-cooking-eating",
+  "folder": "Individuals/Group of Individuals/Cooking _ Eating",
+  "orientation": "portrait",
+  "source": "wright-brand-bacon-GkS6GPZC5dk-unsplash.jpg"
+ },
+ {
+  "name": "group-doing-sport-01",
+  "category": "group-doing-sport",
+  "folder": "Individuals/Group of Individuals/Doing sport",
+  "orientation": "landscape",
+  "source": "candid_realistic_documentary_photography_of_a_gro_73ddcb89-47da-4d91-87ca-71837531969c_1.jpg"
+ },
+ {
+  "name": "group-doing-sport-02",
+  "category": "group-doing-sport",
+  "folder": "Individuals/Group of Individuals/Doing sport",
+  "orientation": "landscape",
+  "source": "candid_realistic_documentary_photography_of_a_gro_73ddcb89-47da-4d91-87ca-71837531969c_2.jpg"
+ },
+ {
+  "name": "group-doing-sport-03",
+  "category": "group-doing-sport",
+  "folder": "Individuals/Group of Individuals/Doing sport",
+  "orientation": "portrait",
+  "source": "leo_visions-O-iUiBmCIeo-unsplash.jpg"
+ },
+ {
+  "name": "group-doing-sport-04",
+  "category": "group-doing-sport",
+  "folder": "Individuals/Group of Individuals/Doing sport",
+  "orientation": "landscape",
+  "source": "shutterstock_1776940571.jpg"
+ },
+ {
+  "name": "group-happy-and-playful-01",
+  "category": "group-happy-and-playful",
+  "folder": "Individuals/Group of Individuals/Happy & playful",
+  "orientation": "square",
+  "source": "12.png"
+ },
+ {
+  "name": "group-happy-and-playful-02",
+  "category": "group-happy-and-playful",
+  "folder": "Individuals/Group of Individuals/Happy & playful",
+  "orientation": "landscape",
+  "source": "shutterstock_1410289022.jpg"
+ },
+ {
+  "name": "group-happy-and-playful-03",
+  "category": "group-happy-and-playful",
+  "folder": "Individuals/Group of Individuals/Happy & playful",
+  "orientation": "landscape",
+  "source": "shutterstock_1927127060.jpg"
+ },
+ {
+  "name": "group-happy-and-playful-04",
+  "category": "group-happy-and-playful",
+  "folder": "Individuals/Group of Individuals/Happy & playful",
+  "orientation": "landscape",
+  "source": "shutterstock_2148131981.jpg"
+ },
+ {
+  "name": "group-happy-and-playful-05",
+  "category": "group-happy-and-playful",
+  "folder": "Individuals/Group of Individuals/Happy & playful",
+  "orientation": "landscape",
+  "source": "shutterstock_644249617.jpg"
+ },
+ {
+  "name": "group-happy-and-playful-06",
+  "category": "group-happy-and-playful",
+  "folder": "Individuals/Group of Individuals/Happy & playful",
+  "orientation": "portrait",
+  "source": "windows-CN_Hj_8QQsQ-unsplash.jpg"
+ },
+ {
+  "name": "group-outdoors-city-01",
+  "category": "group-outdoors-city",
+  "folder": "Individuals/Group of Individuals/Outdoors _ City",
+  "orientation": "landscape",
+  "source": "daniel-eliashevskyi-fP4I7YeKDDI-unsplash.jpg"
+ },
+ {
+  "name": "group-outdoors-city-02",
+  "category": "group-outdoors-city",
+  "folder": "Individuals/Group of Individuals/Outdoors _ City",
+  "orientation": "portrait",
+  "source": "micheile-henderson--nn5ffUd6ZQ-unsplash.jpg"
+ },
+ {
+  "name": "group-outdoors-city-03",
+  "category": "group-outdoors-city",
+  "folder": "Individuals/Group of Individuals/Outdoors _ City",
+  "orientation": "landscape",
+  "source": "samsung-uk-7-xmprXdiAk-unsplash.jpg"
+ },
+ {
+  "name": "group-outdoors-city-04",
+  "category": "group-outdoors-city",
+  "folder": "Individuals/Group of Individuals/Outdoors _ City",
+  "orientation": "landscape",
+  "source": "samsung-uk-SH5Stmpf5OQ-unsplash.jpg"
+ },
+ {
+  "name": "group-travelling-holidays-01",
+  "category": "group-travelling-holidays",
+  "folder": "Individuals/Group of Individuals/Travelling _ Holidays",
+  "orientation": "portrait",
+  "source": "aisulu-jakisheva-ZLwws1cbZZA-unsplash.jpg"
+ },
+ {
+  "name": "group-travelling-holidays-02",
+  "category": "group-travelling-holidays",
+  "folder": "Individuals/Group of Individuals/Travelling _ Holidays",
+  "orientation": "square",
+  "source": "appinio.design_candid_realistic_documentary_photography_of_pe_1a35928c-6d76-40e6-8eb7-a8d0c9b20bfa_0.png"
+ },
+ {
+  "name": "group-travelling-holidays-03",
+  "category": "group-travelling-holidays",
+  "folder": "Individuals/Group of Individuals/Travelling _ Holidays",
+  "orientation": "portrait",
+  "source": "harm-van-de-ven-Mg3FXfBPNAY-unsplash.jpg"
+ },
+ {
+  "name": "group-travelling-holidays-04",
+  "category": "group-travelling-holidays",
+  "folder": "Individuals/Group of Individuals/Travelling _ Holidays",
+  "orientation": "portrait",
+  "source": "unavailable-photographer-VD1ZJd8h41w-unsplash.jpg"
+ },
+ {
+  "name": "devices-01",
+  "category": "devices",
+  "folder": "Individuals/Individuals with Devices",
+  "orientation": "square",
+  "source": "Ultra_photorealistic_cinematic_lifestyle_repor_a09d7805-9601-42c5-8575-4577d45d6352_0.png"
+ },
+ {
+  "name": "devices-02",
+  "category": "devices",
+  "folder": "Individuals/Individuals with Devices",
+  "orientation": "square",
+  "source": "appinio.design_Ultra_photorealistic_cinematic_lifestyle_repor_802b49ed-b1f0-4069-88a7-1e455adf4afc_2.png"
+ },
+ {
+  "name": "devices-03",
+  "category": "devices",
+  "folder": "Individuals/Individuals with Devices",
+  "orientation": "landscape",
+  "source": "appinio.design_candid_documentary_photograph_of_a_consumer_th_75947fc2-3956-4091-aa56-0f1c1aaa65be_2.png"
+ },
+ {
+  "name": "devices-04",
+  "category": "devices",
+  "folder": "Individuals/Individuals with Devices",
+  "orientation": "square",
+  "source": "appinio.design_candid_realistic_documentary_photography_of_two__2a448fc9-745e-44d9-8c90-3277b7de826d 1 1.png"
+ },
+ {
+  "name": "devices-05",
+  "category": "devices",
+  "folder": "Individuals/Individuals with Devices",
+  "orientation": "landscape",
+  "source": "brooke-cagle-LCcFI_26diA-unsplash.jpg"
+ },
+ {
+  "name": "devices-06",
+  "category": "devices",
+  "folder": "Individuals/Individuals with Devices",
+  "orientation": "landscape",
+  "source": "brooke-cagle-n1m25jvupEU-unsplash.jpg"
+ },
+ {
+  "name": "devices-07",
+  "category": "devices",
+  "folder": "Individuals/Individuals with Devices",
+  "orientation": "portrait",
+  "source": "charlesdeluvio-DgoyKNgPiFQ-unsplash.jpg"
+ },
+ {
+  "name": "devices-08",
+  "category": "devices",
+  "folder": "Individuals/Individuals with Devices",
+  "orientation": "landscape",
+  "source": "christin-hume-Hcfwew744z4-unsplash.jpg"
+ },
+ {
+  "name": "devices-09",
+  "category": "devices",
+  "folder": "Individuals/Individuals with Devices",
+  "orientation": "landscape",
+  "source": "envato-labs-image-edit 2.png"
+ },
+ {
+  "name": "devices-10",
+  "category": "devices",
+  "folder": "Individuals/Individuals with Devices",
+  "orientation": "landscape",
+  "source": "jonas-leupe-N-hamyOCFXw-unsplash.jpg"
+ },
+ {
+  "name": "devices-11",
+  "category": "devices",
+  "folder": "Individuals/Individuals with Devices",
+  "orientation": "portrait",
+  "source": "pexels-kampus-production-7414100.jpg"
+ },
+ {
+  "name": "devices-12",
+  "category": "devices",
+  "folder": "Individuals/Individuals with Devices",
+  "orientation": "square",
+  "source": "photo_relastic_image_of_mid_twenty_women_sitting__f265010f-680d-4ba8-8940-100895ef5ebf_2.png"
+ },
+ {
+  "name": "devices-13",
+  "category": "devices",
+  "folder": "Individuals/Individuals with Devices",
+  "orientation": "portrait",
+  "source": "ruan-richard-rodrigues-pK3ozoRgQGc-unsplash.jpg"
+ },
+ {
+  "name": "devices-14",
+  "category": "devices",
+  "folder": "Individuals/Individuals with Devices",
+  "orientation": "landscape",
+  "source": "samsung-uk-roOETBSa8mA-unsplash.jpg"
+ },
+ {
+  "name": "devices-15",
+  "category": "devices",
+  "folder": "Individuals/Individuals with Devices",
+  "orientation": "landscape",
+  "source": "shutterstock_1090350170.jpg"
+ },
+ {
+  "name": "devices-16",
+  "category": "devices",
+  "folder": "Individuals/Individuals with Devices",
+  "orientation": "landscape",
+  "source": "shutterstock_1452798530.jpg"
+ },
+ {
+  "name": "devices-17",
+  "category": "devices",
+  "folder": "Individuals/Individuals with Devices",
+  "orientation": "landscape",
+  "source": "shutterstock_1534896212.jpg"
+ },
+ {
+  "name": "devices-18",
+  "category": "devices",
+  "folder": "Individuals/Individuals with Devices",
+  "orientation": "landscape",
+  "source": "shutterstock_2174124361.jpg"
+ },
+ {
+  "name": "devices-19",
+  "category": "devices",
+  "folder": "Individuals/Individuals with Devices",
+  "orientation": "landscape",
+  "source": "surface-3EnlBPEgIxM-unsplash.jpg"
+ },
+ {
+  "name": "devices-20",
+  "category": "devices",
+  "folder": "Individuals/Individuals with Devices",
+  "orientation": "landscape",
+  "source": "surface-8JALcqYP25s-unsplash.jpg"
+ },
+ {
+  "name": "devices-21",
+  "category": "devices",
+  "folder": "Individuals/Individuals with Devices",
+  "orientation": "portrait",
+  "source": "surface-HVrda0rOHqk-unsplash_2.jpg"
+ },
+ {
+  "name": "devices-22",
+  "category": "devices",
+  "folder": "Individuals/Individuals with Devices",
+  "orientation": "landscape",
+  "source": "surface-L600CuXQ1hs-unsplash.jpg"
+ },
+ {
+  "name": "devices-23",
+  "category": "devices",
+  "folder": "Individuals/Individuals with Devices",
+  "orientation": "portrait",
+  "source": "surface-P6hAFRNgJLE-unsplash.jpg"
+ },
+ {
+  "name": "devices-24",
+  "category": "devices",
+  "folder": "Individuals/Individuals with Devices",
+  "orientation": "landscape",
+  "source": "surface-ZCIT6W8wC44-unsplash.jpg"
+ },
+ {
+  "name": "devices-25",
+  "category": "devices",
+  "folder": "Individuals/Individuals with Devices",
+  "orientation": "landscape",
+  "source": "surface-y9NqbewHG9Y-unsplash.jpg"
+ },
+ {
+  "name": "devices-26",
+  "category": "devices",
+  "folder": "Individuals/Individuals with Devices",
+  "orientation": "landscape",
+  "source": "unsplash-ULgCbKd9OO4-unsplash.jpg"
+ },
+ {
+  "name": "devices-27",
+  "category": "devices",
+  "folder": "Individuals/Individuals with Devices",
+  "orientation": "landscape",
+  "source": "woman-works-on-laptop-at-house-in-mountains-2025-03-13-13-22-05-utc.JPG"
+ },
+ {
+  "name": "pets-01",
+  "category": "pets",
+  "folder": "Individuals/Pets",
+  "orientation": "landscape",
+  "source": "alvan-nee-T-0EW-SEbsE-unsplash.jpg"
+ },
+ {
+  "name": "pets-02",
+  "category": "pets",
+  "folder": "Individuals/Pets",
+  "orientation": "landscape",
+  "source": "artem-beliaikin-c6jp6Wmsjrk-unsplash.jpg"
+ },
+ {
+  "name": "pets-03",
+  "category": "pets",
+  "folder": "Individuals/Pets",
+  "orientation": "landscape",
+  "source": "chewy-1KSBnTvMahY-unsplash.jpg"
+ },
+ {
+  "name": "pets-04",
+  "category": "pets",
+  "folder": "Individuals/Pets",
+  "orientation": "portrait",
+  "source": "chewy-JL4OgwQ0NHs-unsplash.jpg"
+ },
+ {
+  "name": "pets-05",
+  "category": "pets",
+  "folder": "Individuals/Pets",
+  "orientation": "portrait",
+  "source": "chewy-w8C_d0lhxZ8-unsplash.jpg"
+ },
+ {
+  "name": "pets-06",
+  "category": "pets",
+  "folder": "Individuals/Pets",
+  "orientation": "portrait",
+  "source": "hale-tat-7nWfU3_M4ns-unsplash.jpg"
+ },
+ {
+  "name": "pets-07",
+  "category": "pets",
+  "folder": "Individuals/Pets",
+  "orientation": "portrait",
+  "source": "hang-niu-Tn8DLxwuDMA-unsplash.jpg"
+ },
+ {
+  "name": "pets-08",
+  "category": "pets",
+  "folder": "Individuals/Pets",
+  "orientation": "portrait",
+  "source": "mayer-tawfik-F6zyObq-3Uc-unsplash.jpg"
+ },
+ {
+  "name": "pets-09",
+  "category": "pets",
+  "folder": "Individuals/Pets",
+  "orientation": "portrait",
+  "source": "mayer-tawfik-KQOCTNskAZ8-unsplash.jpg"
+ },
+ {
+  "name": "pets-10",
+  "category": "pets",
+  "folder": "Individuals/Pets",
+  "orientation": "portrait",
+  "source": "milada-vigerova-0TPAlZ87mzk-unsplash.jpg"
+ },
+ {
+  "name": "pets-11",
+  "category": "pets",
+  "folder": "Individuals/Pets",
+  "orientation": "landscape",
+  "source": "pauline-loroy-U3aF7hgUSrk-unsplash.jpg"
+ },
+ {
+  "name": "pets-12",
+  "category": "pets",
+  "folder": "Individuals/Pets",
+  "orientation": "landscape",
+  "source": "shutterstock_684900205.jpg"
+ },
+ {
+  "name": "person-at-home-01",
+  "category": "person-at-home",
+  "folder": "Individuals/Single Individuals/At home",
+  "orientation": "square",
+  "source": "candid_realistic_documentary_photography_of_a_bri_30ec80bb-8f2f-4228-9e9b-3ad894705c71_0.png"
+ },
+ {
+  "name": "person-at-home-02",
+  "category": "person-at-home",
+  "folder": "Individuals/Single Individuals/At home",
+  "orientation": "landscape",
+  "source": "docusign-TRUpNFYtyyA-unsplash.jpg"
+ },
+ {
+  "name": "person-at-home-03",
+  "category": "person-at-home",
+  "folder": "Individuals/Single Individuals/At home",
+  "orientation": "portrait",
+  "source": "microsoft-copilot-hkKRe01teO4-unsplash.jpg"
+ },
+ {
+  "name": "person-at-home-04",
+  "category": "person-at-home",
+  "folder": "Individuals/Single Individuals/At home",
+  "orientation": "portrait",
+  "source": "shutterstock_2201042609.jpg"
+ },
+ {
+  "name": "person-at-home-05",
+  "category": "person-at-home",
+  "folder": "Individuals/Single Individuals/At home",
+  "orientation": "landscape",
+  "source": "shutterstock_2256584495.jpg"
+ },
+ {
+  "name": "person-at-work-01",
+  "category": "person-at-work",
+  "folder": "Individuals/Single Individuals/At work",
+  "orientation": "square",
+  "source": "appinio.design_candid_editorial-style_photography_of_a_brand_st_f0b652e5-8d7a-4bae-af1b-18cd7b9d05ad.png"
+ },
+ {
+  "name": "person-at-work-02",
+  "category": "person-at-work",
+  "folder": "Individuals/Single Individuals/At work",
+  "orientation": "landscape",
+  "source": "brooke-cagle-ICTKcvnXx_8-unsplash.jpg"
+ },
+ {
+  "name": "person-at-work-03",
+  "category": "person-at-work",
+  "folder": "Individuals/Single Individuals/At work",
+  "orientation": "landscape",
+  "source": "brooke-cagle-LCcFI_26diA-unsplash.jpg"
+ },
+ {
+  "name": "person-at-work-04",
+  "category": "person-at-work",
+  "folder": "Individuals/Single Individuals/At work",
+  "orientation": "landscape",
+  "source": "shutterstock_1090350170.jpg"
+ },
+ {
+  "name": "person-at-work-05",
+  "category": "person-at-work",
+  "folder": "Individuals/Single Individuals/At work",
+  "orientation": "landscape",
+  "source": "shutterstock_1143541877.jpg"
+ },
+ {
+  "name": "person-at-work-06",
+  "category": "person-at-work",
+  "folder": "Individuals/Single Individuals/At work",
+  "orientation": "landscape",
+  "source": "shutterstock_1151850470.jpg"
+ },
+ {
+  "name": "person-at-work-07",
+  "category": "person-at-work",
+  "folder": "Individuals/Single Individuals/At work",
+  "orientation": "landscape",
+  "source": "shutterstock_669718756.jpg"
+ },
+ {
+  "name": "person-at-work-08",
+  "category": "person-at-work",
+  "folder": "Individuals/Single Individuals/At work",
+  "orientation": "landscape",
+  "source": "surface-_a1eX_fCDZA-unsplash.jpg"
+ },
+ {
+  "name": "person-children-01",
+  "category": "person-children",
+  "folder": "Individuals/Single Individuals/Children",
+  "orientation": "landscape",
+  "source": "__-drz-__-N9fPfXdlabg-unsplash.jpg"
+ },
+ {
+  "name": "person-children-02",
+  "category": "person-children",
+  "folder": "Individuals/Single Individuals/Children",
+  "orientation": "landscape",
+  "source": "helena-lopes-EPfiqsfpMzU-unsplash.jpg"
+ },
+ {
+  "name": "person-children-03",
+  "category": "person-children",
+  "folder": "Individuals/Single Individuals/Children",
+  "orientation": "landscape",
+  "source": "helena-lopes-it8h8vdgsSQ-unsplash.jpg"
+ },
+ {
+  "name": "person-children-04",
+  "category": "person-children",
+  "folder": "Individuals/Single Individuals/Children",
+  "orientation": "landscape",
+  "source": "shutterstock_2124861335.jpg"
+ },
+ {
+  "name": "person-cooking-eating-01",
+  "category": "person-cooking-eating",
+  "folder": "Individuals/Single Individuals/Cooking_Eating",
+  "orientation": "portrait",
+  "source": "ahmet-koc--u89OLgERv4-unsplash.jpg"
+ },
+ {
+  "name": "person-cooking-eating-02",
+  "category": "person-cooking-eating",
+  "folder": "Individuals/Single Individuals/Cooking_Eating",
+  "orientation": "landscape",
+  "source": "frogses-production-GbdXzU12-PA-unsplash.jpg"
+ },
+ {
+  "name": "person-cooking-eating-03",
+  "category": "person-cooking-eating",
+  "folder": "Individuals/Single Individuals/Cooking_Eating",
+  "orientation": "portrait",
+  "source": "jonathan-borba-uB7q7aipU2o-unsplash.jpg"
+ },
+ {
+  "name": "person-cooking-eating-04",
+  "category": "person-cooking-eating",
+  "folder": "Individuals/Single Individuals/Cooking_Eating",
+  "orientation": "landscape",
+  "source": "or-hakim-S2Eql9vHN3o-unsplash.jpg"
+ },
+ {
+  "name": "person-cooking-eating-05",
+  "category": "person-cooking-eating",
+  "folder": "Individuals/Single Individuals/Cooking_Eating",
+  "orientation": "landscape",
+  "source": "pexels-karola-g-8547562.jpg"
+ },
+ {
+  "name": "person-cooking-eating-06",
+  "category": "person-cooking-eating",
+  "folder": "Individuals/Single Individuals/Cooking_Eating",
+  "orientation": "portrait",
+  "source": "pexels-polina-tankilevitch-5419214.jpg"
+ },
+ {
+  "name": "person-cooking-eating-07",
+  "category": "person-cooking-eating",
+  "folder": "Individuals/Single Individuals/Cooking_Eating",
+  "orientation": "portrait",
+  "source": "pexels-thirdman-5052292.jpg"
+ },
+ {
+  "name": "person-cooking-eating-08",
+  "category": "person-cooking-eating",
+  "folder": "Individuals/Single Individuals/Cooking_Eating",
+  "orientation": "portrait",
+  "source": "sehajpal-singh-4opi9wqs6xM-unsplash.jpg"
+ },
+ {
+  "name": "person-cooking-eating-09",
+  "category": "person-cooking-eating",
+  "folder": "Individuals/Single Individuals/Cooking_Eating",
+  "orientation": "landscape",
+  "source": "shutterstock_2229908545.jpg"
+ },
+ {
+  "name": "person-cooking-eating-10",
+  "category": "person-cooking-eating",
+  "folder": "Individuals/Single Individuals/Cooking_Eating",
+  "orientation": "landscape",
+  "source": "shutterstock_2247065007.jpg"
+ },
+ {
+  "name": "person-cooking-eating-11",
+  "category": "person-cooking-eating",
+  "folder": "Individuals/Single Individuals/Cooking_Eating",
+  "orientation": "landscape",
+  "source": "shutterstock_2272027861.jpg"
+ },
+ {
+  "name": "person-cooking-eating-12",
+  "category": "person-cooking-eating",
+  "folder": "Individuals/Single Individuals/Cooking_Eating",
+  "orientation": "portrait",
+  "source": "vitor-monthay-673jcnrm8bM-unsplash.jpg"
+ },
+ {
+  "name": "person-doing-sport-01",
+  "category": "person-doing-sport",
+  "folder": "Individuals/Single Individuals/Doing Sport",
+  "orientation": "portrait",
+  "source": "alina-fedorchenko-qrtwlmbFIgQ-unsplash.jpg"
+ },
+ {
+  "name": "person-doing-sport-02",
+  "category": "person-doing-sport",
+  "folder": "Individuals/Single Individuals/Doing Sport",
+  "orientation": "portrait",
+  "source": "alina-rubo-DSXScywJHmc-unsplash.jpg"
+ },
+ {
+  "name": "person-doing-sport-03",
+  "category": "person-doing-sport",
+  "folder": "Individuals/Single Individuals/Doing Sport",
+  "orientation": "landscape",
+  "source": "candid_realistic_documentary_photography_of_the_w_eb90d952-1c0c-4df1-950a-ac807f216ca4_5.jpg.jpg"
+ },
+ {
+  "name": "person-doing-sport-04",
+  "category": "person-doing-sport",
+  "folder": "Individuals/Single Individuals/Doing Sport",
+  "orientation": "portrait",
+  "source": "nicolai-berntsen-VXiG4N229uY-unsplash.jpg"
+ },
+ {
+  "name": "person-doing-sport-05",
+  "category": "person-doing-sport",
+  "folder": "Individuals/Single Individuals/Doing Sport",
+  "orientation": "portrait",
+  "source": "renith-r-A9VpotrPr1k-unsplash.jpg"
+ },
+ {
+  "name": "person-doing-sport-06",
+  "category": "person-doing-sport",
+  "folder": "Individuals/Single Individuals/Doing Sport",
+  "orientation": "portrait",
+  "source": "shutterstock_2199363755.jpg"
+ },
+ {
+  "name": "person-doing-sport-07",
+  "category": "person-doing-sport",
+  "folder": "Individuals/Single Individuals/Doing Sport",
+  "orientation": "landscape",
+  "source": "shutterstock_569924302.jpg"
+ },
+ {
+  "name": "person-happy-01",
+  "category": "person-happy",
+  "folder": "Individuals/Single Individuals/Happy",
+  "orientation": "landscape",
+  "source": "realistic_documentary_photography_of_a_woman_doing_pottery.jpg"
+ },
+ {
+  "name": "person-happy-02",
+  "category": "person-happy",
+  "folder": "Individuals/Single Individuals/Happy",
+  "orientation": "landscape",
+  "source": "realistic_documentary_photography_of_a_woman_laughing_in_a_bar_window.jpg"
+ },
+ {
+  "name": "person-happy-03",
+  "category": "person-happy",
+  "folder": "Individuals/Single Individuals/Happy",
+  "orientation": "landscape",
+  "source": "shutterstock_2265697197.jpg"
+ },
+ {
+  "name": "person-health-mental-health-01",
+  "category": "person-health-mental-health",
+  "folder": "Individuals/Single Individuals/Health_Mental health",
+  "orientation": "landscape",
+  "source": "national-cancer-institute-BxXgTQEw1M4-unsplash.jpg"
+ },
+ {
+  "name": "person-human-faces-60-women-01",
+  "category": "person-human-faces-60-women",
+  "folder": "Individuals/Single Individuals/Human faces/60+ Women",
+  "orientation": "portrait",
+  "source": "andrey-k-TEyKtgLKuNw-unsplash.jpg"
+ },
+ {
+  "name": "person-human-faces-60-women-02",
+  "category": "person-human-faces-60-women",
+  "folder": "Individuals/Single Individuals/Human faces/60+ Women",
+  "orientation": "square",
+  "source": "appinio.design_Confident_60-70_year_old_woman_living_their_be_0feb47a1-b180-4dd6-b22a-609d95860ff1_2.png"
+ },
+ {
+  "name": "person-human-faces-60-women-03",
+  "category": "person-human-faces-60-women",
+  "folder": "Individuals/Single Individuals/Human faces/60+ Women",
+  "orientation": "square",
+  "source": "appinio.design_Confident_60-70_year_old_woman_living_their_be_5374cc3d-3782-45ea-99e2-c093b785e33c_2.png"
+ },
+ {
+  "name": "person-human-faces-60-women-04",
+  "category": "person-human-faces-60-women",
+  "folder": "Individuals/Single Individuals/Human faces/60+ Women",
+  "orientation": "square",
+  "source": "appinio.design_Confident_60-70_year_old_woman_living_their_be_bdfddca2-a0e6-4bd6-8b14-e6ff47981162_0.png"
+ },
+ {
+  "name": "person-human-faces-60-women-05",
+  "category": "person-human-faces-60-women",
+  "folder": "Individuals/Single Individuals/Human faces/60+ Women",
+  "orientation": "square",
+  "source": "appinio.design_Confident_60-70_year_old_woman_living_their_be_f232c3a1-21f5-43e7-ba5e-f25111fda0b5_2.png"
+ },
+ {
+  "name": "person-human-faces-60-women-06",
+  "category": "person-human-faces-60-women",
+  "folder": "Individuals/Single Individuals/Human faces/60+ Women",
+  "orientation": "square",
+  "source": "appinio.design_Confident_60-70_year_old_woman_living_their_be_f7389120-6b57-44ba-81d8-53ede824f7d9_2.png"
+ },
+ {
+  "name": "person-human-faces-60-women-07",
+  "category": "person-human-faces-60-women",
+  "folder": "Individuals/Single Individuals/Human faces/60+ Women",
+  "orientation": "square",
+  "source": "appinio.design_Confident_60-70_year_old_women_living_their_be_1769c567-3de7-4e5e-88df-1f9354455ac9_1.png"
+ },
+ {
+  "name": "person-human-faces-60-women-08",
+  "category": "person-human-faces-60-women",
+  "folder": "Individuals/Single Individuals/Human faces/60+ Women",
+  "orientation": "square",
+  "source": "appinio.design_minimalist_studio_portrait_of_a_relaxed_afro_ame_3d866645-0cad-4ec0-8f3e-204287e34def.png"
+ },
+ {
+  "name": "person-human-faces-millennial-men-01",
+  "category": "person-human-faces-millennial-men",
+  "folder": "Individuals/Single Individuals/Human faces/Millennial men",
+  "orientation": "square",
+  "source": "appinio.design_candid_documentary_photograph_portrait_of_a_af_8451684f-ac00-41e4-b637-b2c11d5131ee_2.png"
+ },
+ {
+  "name": "person-human-faces-psychographics-hero-portraits-01",
+  "category": "person-human-faces-psychographics-hero-portraits",
+  "folder": "Individuals/Single Individuals/Human faces/Psychographics hero portraits",
+  "orientation": "square",
+  "source": "Harmonizer.png"
+ },
+ {
+  "name": "person-human-faces-psychographics-hero-portraits-02",
+  "category": "person-human-faces-psychographics-hero-portraits",
+  "folder": "Individuals/Single Individuals/Human faces/Psychographics hero portraits",
+  "orientation": "square",
+  "source": "Maximizer.png"
+ },
+ {
+  "name": "person-human-faces-psychographics-hero-portraits-03",
+  "category": "person-human-faces-psychographics-hero-portraits",
+  "folder": "Individuals/Single Individuals/Human faces/Psychographics hero portraits",
+  "orientation": "square",
+  "source": "Optimizer.png"
+ },
+ {
+  "name": "person-human-faces-psychographics-hero-portraits-04",
+  "category": "person-human-faces-psychographics-hero-portraits",
+  "folder": "Individuals/Single Individuals/Human faces/Psychographics hero portraits",
+  "orientation": "square",
+  "source": "Stabilizer.png"
+ },
+ {
+  "name": "person-on-holiday-01",
+  "category": "person-on-holiday",
+  "folder": "Individuals/Single Individuals/On Holiday",
+  "orientation": "landscape",
+  "source": "shutterstock_2141946601.jpg"
+ },
+ {
+  "name": "person-on-holiday-02",
+  "category": "person-on-holiday",
+  "folder": "Individuals/Single Individuals/On Holiday",
+  "orientation": "landscape",
+  "source": "shutterstock_2197627533.jpg"
+ },
+ {
+  "name": "person-outdoors-city-01",
+  "category": "person-outdoors-city",
+  "folder": "Individuals/Single Individuals/Outdoors _ City",
+  "orientation": "landscape",
+  "source": "samsung-uk-MBRrXdf8iSQ-unsplash.jpg"
+ },
+ {
+  "name": "person-reading-01",
+  "category": "person-reading",
+  "folder": "Individuals/Single Individuals/Reading",
+  "orientation": "portrait",
+  "source": "jonathan-sanchez-YK-sIng6Edg-unsplash.jpg"
+ },
+ {
+  "name": "person-reading-02",
+  "category": "person-reading",
+  "folder": "Individuals/Single Individuals/Reading",
+  "orientation": "portrait",
+  "source": "jubeo-hernandez-ZRrWyUWSajQ-unsplash.jpg"
+ },
+ {
+  "name": "person-reading-03",
+  "category": "person-reading",
+  "folder": "Individuals/Single Individuals/Reading",
+  "orientation": "landscape",
+  "source": "priscilla-du-preez-PuZgWp_a0Cs-unsplash.jpg"
+ },
+ {
+  "name": "person-shopping-01",
+  "category": "person-shopping",
+  "folder": "Individuals/Single Individuals/Shopping",
+  "orientation": "landscape",
+  "source": "microsoft-edge-8laInmzPmE8-unsplash.jpg"
+ },
+ {
+  "name": "person-shopping-02",
+  "category": "person-shopping",
+  "folder": "Individuals/Single Individuals/Shopping",
+  "orientation": "portrait",
+  "source": "microsoft-edge-Px0X7g1mc8k-unsplash.jpg"
+ },
+ {
+  "name": "person-shopping-03",
+  "category": "person-shopping",
+  "folder": "Individuals/Single Individuals/Shopping",
+  "orientation": "landscape",
+  "source": "microsoft-edge-TcC5qr3dpgA-unsplash.jpg"
+ },
+ {
+  "name": "person-shopping-04",
+  "category": "person-shopping",
+  "folder": "Individuals/Single Individuals/Shopping",
+  "orientation": "landscape",
+  "source": "microsoft-edge-fvl0zO_q0_k-unsplash.jpg"
+ },
+ {
+  "name": "person-shopping-05",
+  "category": "person-shopping",
+  "folder": "Individuals/Single Individuals/Shopping",
+  "orientation": "landscape",
+  "source": "mohamed-marey-Bd4wvicKiI4-unsplash.jpg"
+ },
+ {
+  "name": "person-shopping-06",
+  "category": "person-shopping",
+  "folder": "Individuals/Single Individuals/Shopping",
+  "orientation": "landscape",
+  "source": "shutterstock_2214584413.jpg"
+ },
+ {
+  "name": "person-sustainability-01",
+  "category": "person-sustainability",
+  "folder": "Individuals/Single Individuals/Sustainability",
+  "orientation": "portrait",
+  "source": "aaron-cook-Ve8cOTtaSgM-unsplash.jpg"
+ },
+ {
+  "name": "person-sustainability-02",
+  "category": "person-sustainability",
+  "folder": "Individuals/Single Individuals/Sustainability",
+  "orientation": "portrait",
+  "source": "adalia-botha-GjQ1gdgWk24-unsplash.jpg"
+ },
+ {
+  "name": "person-sustainability-03",
+  "category": "person-sustainability",
+  "folder": "Individuals/Single Individuals/Sustainability",
+  "orientation": "portrait",
+  "source": "boxed-water-is-better-6WrKKQcEnXk-unsplash.jpg"
+ },
+ {
+  "name": "person-sustainability-04",
+  "category": "person-sustainability",
+  "folder": "Individuals/Single Individuals/Sustainability",
+  "orientation": "landscape",
+  "source": "shutterstock_2392011993.jpg"
+ },
+ {
+  "name": "person-travelling-commuting-01",
+  "category": "person-travelling-commuting",
+  "folder": "Individuals/Single Individuals/Travelling_Commuting",
+  "orientation": "landscape",
+  "source": "douglas-schneiders-bOAZAlYXZtY-unsplash.jpg"
+ },
+ {
+  "name": "person-travelling-commuting-02",
+  "category": "person-travelling-commuting",
+  "folder": "Individuals/Single Individuals/Travelling_Commuting",
+  "orientation": "portrait",
+  "source": "james-langley-2oN0ZttOeBw-unsplash.jpg"
+ },
+ {
+  "name": "person-travelling-commuting-03",
+  "category": "person-travelling-commuting",
+  "folder": "Individuals/Single Individuals/Travelling_Commuting",
+  "orientation": "landscape",
+  "source": "luccas-raota-D_ZAw3gL41Q-unsplash.jpg"
+ },
+ {
+  "name": "person-travelling-commuting-04",
+  "category": "person-travelling-commuting",
+  "folder": "Individuals/Single Individuals/Travelling_Commuting",
+  "orientation": "landscape",
+  "source": "shutterstock_1151850471.jpg"
+ },
+ {
+  "name": "person-travelling-commuting-05",
+  "category": "person-travelling-commuting",
+  "folder": "Individuals/Single Individuals/Travelling_Commuting",
+  "orientation": "landscape",
+  "source": "shutterstock_2274787109.jpg"
+ },
+ {
+  "name": "person-working-from-home-01",
+  "category": "person-working-from-home",
+  "folder": "Individuals/Single Individuals/Working from home",
+  "orientation": "square",
+  "source": "appinio.design_Ultra_photorealistic_cinematic_lifestyle_repor_b557a96c-265b-48f3-ac56-dc32797970a0_0.png"
+ },
+ {
+  "name": "person-working-from-home-02",
+  "category": "person-working-from-home",
+  "folder": "Individuals/Single Individuals/Working from home",
+  "orientation": "square",
+  "source": "appinio.design_Ultra_photorealistic_cinematic_lifestyle_repor_d9f9303f-fc0d-40bc-909f-ece44cd04755_3.png"
+ },
+ {
+  "name": "person-working-from-home-03",
+  "category": "person-working-from-home",
+  "folder": "Individuals/Single Individuals/Working from home",
+  "orientation": "square",
+  "source": "appinio.design_candid_documentary_photograph_of_a_computer_sc_6fe1efbe-24bb-40ae-bd20-5a48bd94563e_3.png"
+ },
+ {
+  "name": "person-working-from-home-04",
+  "category": "person-working-from-home",
+  "folder": "Individuals/Single Individuals/Working from home",
+  "orientation": "square",
+  "source": "appinio.design_httpss.mj.runWMAJx8za2Sw_candid_realistic_docu_c52bdde5-53b8-4fe4-adbc-1ca5cb48e820_2.png"
+ },
+ {
+  "name": "person-working-from-home-05",
+  "category": "person-working-from-home",
+  "folder": "Individuals/Single Individuals/Working from home",
+  "orientation": "portrait",
+  "source": "microsoft-copilot-txZv4HQJRpE-unsplash.jpg"
+ },
+ {
+  "name": "person-working-from-home-06",
+  "category": "person-working-from-home",
+  "folder": "Individuals/Single Individuals/Working from home",
+  "orientation": "landscape",
+  "source": "surface-2Wc28rVDygk-unsplash.jpg"
+ },
+ {
+  "name": "person-working-from-home-07",
+  "category": "person-working-from-home",
+  "folder": "Individuals/Single Individuals/Working from home",
+  "orientation": "landscape",
+  "source": "surface-3jj4P6KSZWk-unsplash.jpg"
+ },
+ {
+  "name": "person-working-from-home-08",
+  "category": "person-working-from-home",
+  "folder": "Individuals/Single Individuals/Working from home",
+  "orientation": "portrait",
+  "source": "surface-JVsABpXSMjo-unsplash.jpg"
+ },
+ {
+  "name": "person-working-from-home-09",
+  "category": "person-working-from-home",
+  "folder": "Individuals/Single Individuals/Working from home",
+  "orientation": "landscape",
+  "source": "surface-L1VV4YuHFrs-unsplash.jpg"
+ },
+ {
+  "name": "person-working-from-home-10",
+  "category": "person-working-from-home",
+  "folder": "Individuals/Single Individuals/Working from home",
+  "orientation": "portrait",
+  "source": "surface-_UHIujD2Jwo-unsplash.jpg"
+ },
+ {
+  "name": "person-working-from-home-11",
+  "category": "person-working-from-home",
+  "folder": "Individuals/Single Individuals/Working from home",
+  "orientation": "landscape",
+  "source": "surface-xHZSnyJLVNM-unsplash.jpg"
+ },
+ {
+  "name": "ai-smart-environments-01",
+  "category": "ai-smart-environments",
+  "folder": "Industries/AI _ Smart environments",
+  "orientation": "landscape",
+  "source": "bence-boros-anapPhJFRhM-unsplash.jpg"
+ },
+ {
+  "name": "ai-smart-environments-02",
+  "category": "ai-smart-environments",
+  "folder": "Industries/AI _ Smart environments",
+  "orientation": "landscape",
+  "source": "jakub-zerdzicki-bk5ZrIA9OU8-unsplash.jpg"
+ },
+ {
+  "name": "ai-smart-environments-03",
+  "category": "ai-smart-environments",
+  "folder": "Industries/AI _ Smart environments",
+  "orientation": "landscape",
+  "source": "samsung-uk-PV9QQFDB5W8-unsplash.jpg"
+ },
+ {
+  "name": "ai-smart-environments-04",
+  "category": "ai-smart-environments",
+  "folder": "Industries/AI _ Smart environments",
+  "orientation": "landscape",
+  "source": "samsung-uk-_xkFkF4InmM-unsplash.jpg"
+ },
+ {
+  "name": "architecture-01",
+  "category": "architecture",
+  "folder": "Industries/Architecture",
+  "orientation": "portrait",
+  "source": "architecture integrates nature natural sun light.png"
+ },
+ {
+  "name": "architecture-02",
+  "category": "architecture",
+  "folder": "Industries/Architecture",
+  "orientation": "portrait",
+  "source": "charlesdeluvio-c2thq3SXJiA-unsplash.jpg"
+ },
+ {
+  "name": "architecture-03",
+  "category": "architecture",
+  "folder": "Industries/Architecture",
+  "orientation": "landscape",
+  "source": "milivoj-kuhar-Te48TPzdcU8-unsplash.jpg"
+ },
+ {
+  "name": "architecture-04",
+  "category": "architecture",
+  "folder": "Industries/Architecture",
+  "orientation": "landscape",
+  "source": "shutterstock_1980422114.jpg"
+ },
+ {
+  "name": "automotive-01",
+  "category": "automotive",
+  "folder": "Industries/Automotive",
+  "orientation": "square",
+  "source": "candid_documentary_photograph_of_a_man_in_the_roa_07c18a90-1d7a-4558-9a01-4063d923a19f_0.png"
+ },
+ {
+  "name": "banking-01",
+  "category": "banking",
+  "folder": "Industries/Banking",
+  "orientation": "landscape",
+  "source": "Card payment at a shop 1.jpg"
+ },
+ {
+  "name": "banking-02",
+  "category": "banking",
+  "folder": "Industries/Banking",
+  "orientation": "landscape",
+  "source": "Lady at the door of the Bank.jpg"
+ },
+ {
+  "name": "banking-03",
+  "category": "banking",
+  "folder": "Industries/Banking",
+  "orientation": "landscape",
+  "source": "Online Banking at home 2.jpg"
+ },
+ {
+  "name": "banking-04",
+  "category": "banking",
+  "folder": "Industries/Banking",
+  "orientation": "landscape",
+  "source": "Online purchase with card from home.jpg"
+ },
+ {
+  "name": "banking-05",
+  "category": "banking",
+  "folder": "Industries/Banking",
+  "orientation": "portrait",
+  "source": "data-vis-hoadhzCXHps-unsplash.jpg"
+ },
+ {
+  "name": "banking-06",
+  "category": "banking",
+  "folder": "Industries/Banking",
+  "orientation": "portrait",
+  "source": "sumup-0-UCBYHTp2o-unsplash.jpg"
+ },
+ {
+  "name": "durable-goods-01",
+  "category": "durable-goods",
+  "folder": "Industries/Durable Goods",
+  "orientation": "portrait",
+  "source": "Bike - sport equimpment.jpg"
+ },
+ {
+  "name": "durable-goods-02",
+  "category": "durable-goods",
+  "folder": "Industries/Durable Goods",
+  "orientation": "landscape",
+  "source": "Fitness equipment 1.jpg"
+ },
+ {
+  "name": "durable-goods-03",
+  "category": "durable-goods",
+  "folder": "Industries/Durable Goods",
+  "orientation": "landscape",
+  "source": "Fitness equipment 2.jpg"
+ },
+ {
+  "name": "durable-goods-04",
+  "category": "durable-goods",
+  "folder": "Industries/Durable Goods",
+  "orientation": "portrait",
+  "source": "Oven.jpg"
+ },
+ {
+  "name": "durable-goods-05",
+  "category": "durable-goods",
+  "folder": "Industries/Durable Goods",
+  "orientation": "landscape",
+  "source": "iPad in the car.jpg"
+ },
+ {
+  "name": "durable-goods-06",
+  "category": "durable-goods",
+  "folder": "Industries/Durable Goods",
+  "orientation": "landscape",
+  "source": "laptop and mouse close-up.jpg"
+ },
+ {
+  "name": "durable-goods-07",
+  "category": "durable-goods",
+  "folder": "Industries/Durable Goods",
+  "orientation": "landscape",
+  "source": "laptop closed on the desk.jpg"
+ },
+ {
+  "name": "durable-goods-08",
+  "category": "durable-goods",
+  "folder": "Industries/Durable Goods",
+  "orientation": "landscape",
+  "source": "travel bags and laptop.jpg"
+ },
+ {
+  "name": "durable-goods-09",
+  "category": "durable-goods",
+  "folder": "Industries/Durable Goods",
+  "orientation": "landscape",
+  "source": "washing machine 2.jpg"
+ },
+ {
+  "name": "fmcg-01",
+  "category": "fmcg",
+  "folder": "Industries/FMCG",
+  "orientation": "landscape",
+  "source": "hanlin-sun-1w1owJaMeDw-unsplash.jpg"
+ },
+ {
+  "name": "fmcg-02",
+  "category": "fmcg",
+  "folder": "Industries/FMCG",
+  "orientation": "landscape",
+  "source": "lena-kudryavtseva-Zrc_NGb3eAA-unsplash.jpg"
+ },
+ {
+  "name": "fmcg-03",
+  "category": "fmcg",
+  "folder": "Industries/FMCG",
+  "orientation": "portrait",
+  "source": "lindsay-moe-n-QvF3vyf5M-unsplash.jpg"
+ },
+ {
+  "name": "fmcg-04",
+  "category": "fmcg",
+  "folder": "Industries/FMCG",
+  "orientation": "portrait",
+  "source": "nataliya-melnychuk-ogqm9zkRctA-unsplash.jpg"
+ },
+ {
+  "name": "fmcg-05",
+  "category": "fmcg",
+  "folder": "Industries/FMCG",
+  "orientation": "portrait",
+  "source": "nathan-dumlao-jpt-72DyPiw-unsplash.jpg"
+ },
+ {
+  "name": "fmcg-06",
+  "category": "fmcg",
+  "folder": "Industries/FMCG",
+  "orientation": "portrait",
+  "source": "pexels-n-voitkevich-10060720.jpg"
+ },
+ {
+  "name": "fmcg-07",
+  "category": "fmcg",
+  "folder": "Industries/FMCG",
+  "orientation": "portrait",
+  "source": "pexels-nastyasensei-66707-2105104.jpg"
+ },
+ {
+  "name": "fmcg-08",
+  "category": "fmcg",
+  "folder": "Industries/FMCG",
+  "orientation": "portrait",
+  "source": "pexels-polina-tankilevitch-5469035.jpg"
+ },
+ {
+  "name": "fmcg-09",
+  "category": "fmcg",
+  "folder": "Industries/FMCG",
+  "orientation": "landscape",
+  "source": "sorour-mahboubifard-9QGm11KBUlQ-unsplash.jpg"
+ },
+ {
+  "name": "fmcg-10",
+  "category": "fmcg",
+  "folder": "Industries/FMCG",
+  "orientation": "landscape",
+  "source": "t-8yi2ATJR8lo-unsplash.jpg"
+ },
+ {
+  "name": "fmcg-11",
+  "category": "fmcg",
+  "folder": "Industries/FMCG",
+  "orientation": "portrait",
+  "source": "vu-nghi-thai-53-X30kGUK4-unsplash.jpg"
+ },
+ {
+  "name": "fashion-01",
+  "category": "fashion",
+  "folder": "Industries/Fashion",
+  "orientation": "portrait",
+  "source": "andrej-lisakov-Yy4sN6QzboU-unsplash.jpg"
+ },
+ {
+  "name": "fashion-02",
+  "category": "fashion",
+  "folder": "Industries/Fashion",
+  "orientation": "landscape",
+  "source": "cesar-la-rosa-HbAddptme1Q-unsplash.jpg"
+ },
+ {
+  "name": "fashion-03",
+  "category": "fashion",
+  "folder": "Industries/Fashion",
+  "orientation": "portrait",
+  "source": "ethan-haddox-jvUZkoh4Hhw-unsplash.jpg"
+ },
+ {
+  "name": "fashion-04",
+  "category": "fashion",
+  "folder": "Industries/Fashion",
+  "orientation": "portrait",
+  "source": "helen-ngoc-n-fXF5TqIJMI8-unsplash.jpg"
+ },
+ {
+  "name": "fashion-05",
+  "category": "fashion",
+  "folder": "Industries/Fashion",
+  "orientation": "portrait",
+  "source": "hong-nguyen-J4TEzb9mb3A-unsplash.jpg"
+ },
+ {
+  "name": "fashion-06",
+  "category": "fashion",
+  "folder": "Industries/Fashion",
+  "orientation": "landscape",
+  "source": "karsten-winegeart-qy0BHykaq0E-unsplash.jpg"
+ },
+ {
+  "name": "fashion-07",
+  "category": "fashion",
+  "folder": "Industries/Fashion",
+  "orientation": "landscape",
+  "source": "kevin-laminto-07wBhL5WqgI-unsplash.jpg"
+ },
+ {
+  "name": "fashion-08",
+  "category": "fashion",
+  "folder": "Industries/Fashion",
+  "orientation": "landscape",
+  "source": "kevin-laminto-0ZPlUMo2lis-unsplash.jpg"
+ },
+ {
+  "name": "fashion-09",
+  "category": "fashion",
+  "folder": "Industries/Fashion",
+  "orientation": "portrait",
+  "source": "kevin-laminto-nPJlwpECLcc-unsplash.jpg"
+ },
+ {
+  "name": "fashion-10",
+  "category": "fashion",
+  "folder": "Industries/Fashion",
+  "orientation": "landscape",
+  "source": "max-harlynking-CDLBz2lPpLM-unsplash.jpg"
+ },
+ {
+  "name": "fashion-11",
+  "category": "fashion",
+  "folder": "Industries/Fashion",
+  "orientation": "square",
+  "source": "pila de ropa.png"
+ },
+ {
+  "name": "fashion-12",
+  "category": "fashion",
+  "folder": "Industries/Fashion",
+  "orientation": "portrait",
+  "source": "prince-akachi-iuqcmC4NVNo-unsplash.jpg"
+ },
+ {
+  "name": "fashion-13",
+  "category": "fashion",
+  "folder": "Industries/Fashion",
+  "orientation": "landscape",
+  "source": "surface-9iDizfMiiaA-unsplash.jpg"
+ },
+ {
+  "name": "fashion-14",
+  "category": "fashion",
+  "folder": "Industries/Fashion",
+  "orientation": "landscape",
+  "source": "surface-w9OdWfCoiw0-unsplash.jpg"
+ },
+ {
+  "name": "food-and-beverages-01",
+  "category": "food-and-beverages",
+  "folder": "Industries/Food & Beverages",
+  "orientation": "portrait",
+  "source": "aliona-gumeniuk-jeAjT87nbjM-unsplash.jpg"
+ },
+ {
+  "name": "food-and-beverages-02",
+  "category": "food-and-beverages",
+  "folder": "Industries/Food & Beverages",
+  "orientation": "portrait",
+  "source": "annie-spratt-PM4Vu1B0gxk-unsplash.jpg"
+ },
+ {
+  "name": "food-and-beverages-03",
+  "category": "food-and-beverages",
+  "folder": "Industries/Food & Beverages",
+  "orientation": "square",
+  "source": "candid_documentary_photograph_of_A_close-up_of_a__6438c4c9-521c-4fee-8862-2d0bd825cae6_2.png"
+ },
+ {
+  "name": "food-and-beverages-04",
+  "category": "food-and-beverages",
+  "folder": "Industries/Food & Beverages",
+  "orientation": "square",
+  "source": "candid_documentary_photograph_of_a_cake_being_bak_bd1e08a9-cc51-4779-93ae-2b1072bd0613_3.png"
+ },
+ {
+  "name": "food-and-beverages-05",
+  "category": "food-and-beverages",
+  "folder": "Industries/Food & Beverages",
+  "orientation": "landscape",
+  "source": "cemrecan-yurtman-FfUKrlnXd9o-unsplash.jpg"
+ },
+ {
+  "name": "food-and-beverages-06",
+  "category": "food-and-beverages",
+  "folder": "Industries/Food & Beverages",
+  "orientation": "landscape",
+  "source": "close-up-of-a-hand-decorating-with-chocolate-some-2024-09-18-23-34-07-utc.jpg"
+ },
+ {
+  "name": "food-and-beverages-07",
+  "category": "food-and-beverages",
+  "folder": "Industries/Food & Beverages",
+  "orientation": "landscape",
+  "source": "pexels-jdgromov-12645207.jpg"
+ },
+ {
+  "name": "food-and-beverages-08",
+  "category": "food-and-beverages",
+  "folder": "Industries/Food & Beverages",
+  "orientation": "landscape",
+  "source": "shutterstock_1100074070.jpg"
+ },
+ {
+  "name": "food-and-beverages-09",
+  "category": "food-and-beverages",
+  "folder": "Industries/Food & Beverages",
+  "orientation": "landscape",
+  "source": "shutterstock_2153161947.jpg"
+ },
+ {
+  "name": "food-and-beverages-10",
+  "category": "food-and-beverages",
+  "folder": "Industries/Food & Beverages",
+  "orientation": "landscape",
+  "source": "shutterstock_2247065007.jpg"
+ },
+ {
+  "name": "food-and-beverages-11",
+  "category": "food-and-beverages",
+  "folder": "Industries/Food & Beverages",
+  "orientation": "portrait",
+  "source": "sweet-life-YIp61GrCv1o-unsplash.jpg"
+ },
+ {
+  "name": "food-and-beverages-12",
+  "category": "food-and-beverages",
+  "folder": "Industries/Food & Beverages",
+  "orientation": "landscape",
+  "source": "t-jcwZC5nzL1Y-unsplash.jpg"
+ },
+ {
+  "name": "food-and-beverages-aperitif-01",
+  "category": "food-and-beverages-aperitif",
+  "folder": "Industries/Food & Beverages/Ape\u0301ritif",
+  "orientation": "landscape",
+  "source": "0-the-cheeserom-H5eCU_xNnsM-unsplash.jpg"
+ },
+ {
+  "name": "food-and-beverages-aperitif-02",
+  "category": "food-and-beverages-aperitif",
+  "folder": "Industries/Food & Beverages/Ape\u0301ritif",
+  "orientation": "portrait",
+  "source": "0-yasin-onus-2zvJVYujXVk-unsplash.jpg"
+ },
+ {
+  "name": "food-and-beverages-aperitif-03",
+  "category": "food-and-beverages-aperitif",
+  "folder": "Industries/Food & Beverages/Ape\u0301ritif",
+  "orientation": "landscape",
+  "source": "24-crispbread-4J_iBZkTauk-unsplash.jpg"
+ },
+ {
+  "name": "food-and-beverages-aperitif-04",
+  "category": "food-and-beverages-aperitif",
+  "folder": "Industries/Food & Beverages/Ape\u0301ritif",
+  "orientation": "landscape",
+  "source": "claudio-schwarz-MTDSKUZvaWU-unsplash.jpg"
+ },
+ {
+  "name": "food-and-beverages-aperitif-05",
+  "category": "food-and-beverages-aperitif",
+  "folder": "Industries/Food & Beverages/Ape\u0301ritif",
+  "orientation": "landscape",
+  "source": "drink-drippy-9bBiJ1Zunuw-unsplash.jpg"
+ },
+ {
+  "name": "food-and-beverages-aperitif-06",
+  "category": "food-and-beverages-aperitif",
+  "folder": "Industries/Food & Beverages/Ape\u0301ritif",
+  "orientation": "portrait",
+  "source": "ellery-sterling-DLxeNPSfkkY-unsplash.jpg"
+ },
+ {
+  "name": "food-and-beverages-aperitif-07",
+  "category": "food-and-beverages-aperitif",
+  "folder": "Industries/Food & Beverages/Ape\u0301ritif",
+  "orientation": "portrait",
+  "source": "insung-yoon-VqfSUgJDF1k-unsplash.jpg"
+ },
+ {
+  "name": "food-and-beverages-aperitif-08",
+  "category": "food-and-beverages-aperitif",
+  "folder": "Industries/Food & Beverages/Ape\u0301ritif",
+  "orientation": "landscape",
+  "source": "peter-schad-kWggWUb365k-unsplash.jpg"
+ },
+ {
+  "name": "food-and-beverages-aperitif-09",
+  "category": "food-and-beverages-aperitif",
+  "folder": "Industries/Food & Beverages/Ape\u0301ritif",
+  "orientation": "landscape",
+  "source": "wasa-crispbread-TfXH8wwVRok-unsplash.jpg"
+ },
+ {
+  "name": "fruits-and-veggies-01",
+  "category": "fruits-and-veggies",
+  "folder": "Industries/Fruits and veggies",
+  "orientation": "portrait",
+  "source": "pexels-ds-stories-9228132.jpg"
+ },
+ {
+  "name": "healthcare-01",
+  "category": "healthcare",
+  "folder": "Industries/Healthcare",
+  "orientation": "portrait",
+  "source": "camera-obscura-0KIBd0AiMuc-unsplash.jpg"
+ },
+ {
+  "name": "healthcare-02",
+  "category": "healthcare",
+  "folder": "Industries/Healthcare",
+  "orientation": "landscape",
+  "source": "ozkan-guner-qIIEhHalKcM-unsplash.jpg"
+ },
+ {
+  "name": "healthcare-03",
+  "category": "healthcare",
+  "folder": "Industries/Healthcare",
+  "orientation": "landscape",
+  "source": "shutterstock_1307544397.jpg"
+ },
+ {
+  "name": "healthcare-04",
+  "category": "healthcare",
+  "folder": "Industries/Healthcare",
+  "orientation": "portrait",
+  "source": "victoria-aleksandrova-9zsiNYwvYCM-unsplash.jpg"
+ },
+ {
+  "name": "healthcare-glp1s-01",
+  "category": "healthcare-glp1s",
+  "folder": "Industries/Healthcare/GLP1s",
+  "orientation": "landscape",
+  "source": "haberdoedas-TzKc7FGaL7Y-unsplash.jpg"
+ },
+ {
+  "name": "healthcare-glp1s-02",
+  "category": "healthcare-glp1s",
+  "folder": "Industries/Healthcare/GLP1s",
+  "orientation": "landscape",
+  "source": "sweet-life-GjNW9RM_z60-unsplash.jpg"
+ },
+ {
+  "name": "luxury-products-01",
+  "category": "luxury-products",
+  "folder": "Industries/Luxury products",
+  "orientation": "portrait",
+  "source": "matheus-bardemaker-1aL_hnQb_wc-unsplash.jpg"
+ },
+ {
+  "name": "luxury-products-02",
+  "category": "luxury-products",
+  "folder": "Industries/Luxury products",
+  "orientation": "landscape",
+  "source": "nexaro-studio-TWuVJClxhnk-unsplash.jpg"
+ },
+ {
+  "name": "luxury-products-03",
+  "category": "luxury-products",
+  "folder": "Industries/Luxury products",
+  "orientation": "portrait",
+  "source": "oxa-roxa-6Z488fffa8E-unsplash.jpg"
+ },
+ {
+  "name": "luxury-products-04",
+  "category": "luxury-products",
+  "folder": "Industries/Luxury products",
+  "orientation": "portrait",
+  "source": "viv-fren-israel-torda-yacLe5GDSeQ-unsplash.jpg"
+ },
+ {
+  "name": "market-research-01",
+  "category": "market-research",
+  "folder": "Industries/Market Research _ Data vis.",
+  "orientation": "square",
+  "source": "AI in market research.png"
+ },
+ {
+  "name": "market-research-02",
+  "category": "market-research",
+  "folder": "Industries/Market Research _ Data vis.",
+  "orientation": "square",
+  "source": "appinio.design_candid_documentary_photograph_of_a_meeting_at__3ec08e96-c8df-4ae7-b609-48534bf7212b_0.png"
+ },
+ {
+  "name": "market-research-03",
+  "category": "market-research",
+  "folder": "Industries/Market Research _ Data vis.",
+  "orientation": "square",
+  "source": "appinio.design_candid_documentary_photograph_of_a_meeting_at__7d065c27-dc55-4286-8159-c687dd2736d3_1.png"
+ },
+ {
+  "name": "market-research-04",
+  "category": "market-research",
+  "folder": "Industries/Market Research _ Data vis.",
+  "orientation": "square",
+  "source": "appinio.design_httpss.mj.runhTXLusZYrO8_httpss.mj.runHUzNccwZ_334e7c77-0021-43dd-be81-304c1266e432_0.png"
+ },
+ {
+  "name": "market-research-05",
+  "category": "market-research",
+  "folder": "Industries/Market Research _ Data vis.",
+  "orientation": "landscape",
+  "source": "jakub-zerdzicki-EL16ACtwLxg-unsplash.jpg"
+ },
+ {
+  "name": "market-research-06",
+  "category": "market-research",
+  "folder": "Industries/Market Research _ Data vis.",
+  "orientation": "square",
+  "source": "people_working_together_02.png"
+ },
+ {
+  "name": "market-research-07",
+  "category": "market-research",
+  "folder": "Industries/Market Research _ Data vis.",
+  "orientation": "square",
+  "source": "working_from_home_01.png"
+ },
+ {
+  "name": "market-research-08",
+  "category": "market-research",
+  "folder": "Industries/Market research _ Data vis",
+  "orientation": "landscape",
+  "source": "appinio.design_candid_documentary-style_photography_of_a_busine_43500ce1-cd2a-4088-8815-38187a5d44a1.png"
+ },
+ {
+  "name": "market-research-09",
+  "category": "market-research",
+  "folder": "Industries/Market research _ Data vis",
+  "orientation": "square",
+  "source": "appinio.design_candid_documentary_photograph_of_a_meeting_at__60774fee-dff6-4ba3-9113-60b025a0f16e_2.png"
+ },
+ {
+  "name": "market-research-10",
+  "category": "market-research",
+  "folder": "Industries/Market research _ Data vis",
+  "orientation": "square",
+  "source": "appinio.design_httpss.mj.runAupwF1XfCgI_candid_documentary_ph_5cdf4b2f-b979-4865-9326-9286d9f748a0_0.png"
+ },
+ {
+  "name": "online-payment-digital-payment-01",
+  "category": "online-payment-digital-payment",
+  "folder": "Industries/Online payment _ digital payment",
+  "orientation": "portrait",
+  "source": "sumup-0-UCBYHTp2o-unsplash.jpg"
+ },
+ {
+  "name": "online-payment-digital-payment-02",
+  "category": "online-payment-digital-payment",
+  "folder": "Industries/Online payment _ digital payment",
+  "orientation": "landscape",
+  "source": "sumup-6eHSVFEUq10-unsplash.jpg"
+ },
+ {
+  "name": "online-payment-digital-payment-03",
+  "category": "online-payment-digital-payment",
+  "folder": "Industries/Online payment _ digital payment",
+  "orientation": "landscape",
+  "source": "sumup-8DmMxd5_1nE-unsplash.jpg"
+ },
+ {
+  "name": "online-payment-digital-payment-04",
+  "category": "online-payment-digital-payment",
+  "folder": "Industries/Online payment _ digital payment",
+  "orientation": "portrait",
+  "source": "sumup-K8c091KtYXs-unsplash.jpg"
+ },
+ {
+  "name": "online-payment-digital-payment-05",
+  "category": "online-payment-digital-payment",
+  "folder": "Industries/Online payment _ digital payment",
+  "orientation": "portrait",
+  "source": "sumup-YKCU-5Faehc-unsplash.jpg"
+ },
+ {
+  "name": "online-payment-digital-payment-06",
+  "category": "online-payment-digital-payment",
+  "folder": "Industries/Online payment _ digital payment",
+  "orientation": "landscape",
+  "source": "sumup-nZnnJZA1Uvk-unsplash.jpg"
+ },
+ {
+  "name": "personal-skin-care-01",
+  "category": "personal-skin-care",
+  "folder": "Industries/Personal _ Skin Care",
+  "orientation": "square",
+  "source": "appinio.design_candid_realistic_documentary_photography_of_2__567af7e5-6129-4788-93a5-e2fd3d108be3_2.png"
+ },
+ {
+  "name": "personal-skin-care-02",
+  "category": "personal-skin-care",
+  "folder": "Industries/Personal _ Skin Care",
+  "orientation": "square",
+  "source": "appinio.design_candid_realistic_documentary_photography_of_a__027cd2cf-3e93-4695-83a7-773ca058b7c7_3.png"
+ },
+ {
+  "name": "personal-skin-care-03",
+  "category": "personal-skin-care",
+  "folder": "Industries/Personal _ Skin Care",
+  "orientation": "square",
+  "source": "appinio.design_candid_realistic_documentary_photography_of_a__19e34e68-ffe2-4158-bddc-ea2fd764a406_3.png"
+ },
+ {
+  "name": "personal-skin-care-04",
+  "category": "personal-skin-care",
+  "folder": "Industries/Personal _ Skin Care",
+  "orientation": "square",
+  "source": "appinio.design_candid_realistic_documentary_photography_of_a__2a7426ee-b236-4aaf-888b-e0b1eb336464_3.png"
+ },
+ {
+  "name": "personal-skin-care-05",
+  "category": "personal-skin-care",
+  "folder": "Industries/Personal _ Skin Care",
+  "orientation": "square",
+  "source": "appinio.design_httpss.mj.run3eMl1rUai6Y_candid_realistic_docu_68636973-aad8-4b24-b975-d6cba9f115e0_2.png"
+ },
+ {
+  "name": "personal-skin-care-06",
+  "category": "personal-skin-care",
+  "folder": "Industries/Personal _ Skin Care",
+  "orientation": "portrait",
+  "source": "birgith-roosipuu-7m9mA2qljog-unsplash.jpg"
+ },
+ {
+  "name": "personal-skin-care-07",
+  "category": "personal-skin-care",
+  "folder": "Industries/Personal _ Skin Care",
+  "orientation": "portrait",
+  "source": "cheyenne-doig-dPs0DEGrM9A-unsplash.jpg"
+ },
+ {
+  "name": "personal-skin-care-08",
+  "category": "personal-skin-care",
+  "folder": "Industries/Personal _ Skin Care",
+  "orientation": "portrait",
+  "source": "close-up_hands_testing_cream_on_the_skin.jpg"
+ },
+ {
+  "name": "personal-skin-care-09",
+  "category": "personal-skin-care",
+  "folder": "Industries/Personal _ Skin Care",
+  "orientation": "portrait",
+  "source": "close-up_young_man_eyes_closed_with_an_eye_patch.jpg"
+ },
+ {
+  "name": "personal-skin-care-10",
+  "category": "personal-skin-care",
+  "folder": "Industries/Personal _ Skin Care",
+  "orientation": "portrait",
+  "source": "nataliya-melnychuk-I-6Ap7JXHq8-unsplash.jpg"
+ },
+ {
+  "name": "personal-skin-care-11",
+  "category": "personal-skin-care",
+  "folder": "Industries/Personal _ Skin Care",
+  "orientation": "portrait",
+  "source": "nataliya-melnychuk-dFBhXJHKNeo-unsplash.jpg"
+ },
+ {
+  "name": "personal-skin-care-12",
+  "category": "personal-skin-care",
+  "folder": "Industries/Personal _ Skin Care",
+  "orientation": "portrait",
+  "source": "pexels-amelie-chen-243775000-12352170.jpg"
+ },
+ {
+  "name": "personal-skin-care-13",
+  "category": "personal-skin-care",
+  "folder": "Industries/Personal _ Skin Care",
+  "orientation": "landscape",
+  "source": "poko-skincare-AxKIWMgUJOI-unsplash.jpg"
+ },
+ {
+  "name": "personal-skin-care-14",
+  "category": "personal-skin-care",
+  "folder": "Industries/Personal _ Skin Care",
+  "orientation": "landscape",
+  "source": "senior-hands-holding-glass-pipette-2024-06-26-19-20-30-utc.jpg"
+ },
+ {
+  "name": "personal-skin-care-15",
+  "category": "personal-skin-care",
+  "folder": "Industries/Personal _ Skin Care",
+  "orientation": "portrait",
+  "source": "toa-heftiba-GLl6_-L3fxM-unsplash.jpg"
+ },
+ {
+  "name": "personal-skin-care-16",
+  "category": "personal-skin-care",
+  "folder": "Industries/Personal _ Skin Care",
+  "orientation": "portrait",
+  "source": "viva-luna-studios-hYpHkpQG5ms-unsplash.jpg"
+ },
+ {
+  "name": "pharma-01",
+  "category": "pharma",
+  "folder": "Industries/Pharma",
+  "orientation": "square",
+  "source": "candid_realistic_documentary_photography_a_person_8017ece4-c1ff-4350-baaf-668279006df0_1.png"
+ },
+ {
+  "name": "pharma-02",
+  "category": "pharma",
+  "folder": "Industries/Pharma",
+  "orientation": "square",
+  "source": "candid_realistic_documentary_photography_a_woman__77fed66b-6256-4923-b000-00c7b392c147_3.png"
+ },
+ {
+  "name": "pharma-03",
+  "category": "pharma",
+  "folder": "Industries/Pharma",
+  "orientation": "square",
+  "source": "candid_realistic_documentary_photography_of_Close_5fae5d7f-aee5-4fa0-bc48-6ff2e23d78da_1.png"
+ },
+ {
+  "name": "pharma-04",
+  "category": "pharma",
+  "folder": "Industries/Pharma",
+  "orientation": "square",
+  "source": "candid_realistic_documentary_photography_of_Close_7bfa5d01-0944-4d0c-b8f8-4d88ed18cf91_0.png"
+ },
+ {
+  "name": "pharma-05",
+  "category": "pharma",
+  "folder": "Industries/Pharma",
+  "orientation": "square",
+  "source": "candid_realistic_documentary_photography_of_Close_ac0ea9b0-3509-46d5-b3e7-78279504fa79_3.png"
+ },
+ {
+  "name": "robotics-machine-learning-01",
+  "category": "robotics-machine-learning",
+  "folder": "Industries/Robotics _ Machine Learning",
+  "orientation": "square",
+  "source": "appinio.design_Candid_documentary_photograph_of_a_human_and_a_0a1a39ce-38b8-4661-b8a3-7aa748849ff0_0.png"
+ },
+ {
+  "name": "robotics-machine-learning-02",
+  "category": "robotics-machine-learning",
+  "folder": "Industries/Robotics _ Machine Learning",
+  "orientation": "square",
+  "source": "appinio.design_Candid_documentary_photograph_of_a_human_and_a_20a97415-0702-4a0e-9abb-9dc6da8879a8_0.png"
+ },
+ {
+  "name": "robotics-machine-learning-03",
+  "category": "robotics-machine-learning",
+  "folder": "Industries/Robotics _ Machine Learning",
+  "orientation": "square",
+  "source": "appinio.design_Candid_documentary_photograph_of_a_human_hand__1f115c37-2096-4773-b6c4-47ed3c483461_1.png"
+ },
+ {
+  "name": "robotics-machine-learning-04",
+  "category": "robotics-machine-learning",
+  "folder": "Industries/Robotics _ Machine Learning",
+  "orientation": "square",
+  "source": "appinio.design_Candid_documentary_photograph_of_a_human_hand__cdde406f-cbb0-4858-85de-4bccb5c0ff20_0.png"
+ },
+ {
+  "name": "robotics-machine-learning-05",
+  "category": "robotics-machine-learning",
+  "folder": "Industries/Robotics _ Machine Learning",
+  "orientation": "square",
+  "source": "appinio.design_Candid_documentary_photograph_of_a_human_hand__cdde406f-cbb0-4858-85de-4bccb5c0ff20_1.png"
+ },
+ {
+  "name": "robotics-machine-learning-06",
+  "category": "robotics-machine-learning",
+  "folder": "Industries/Robotics _ Machine Learning",
+  "orientation": "square",
+  "source": "appinio.design_Candid_documentary_photograph_of_a_human_male__942e2980-c982-47a0-847f-c67ba52d6cf6_3.png"
+ },
+ {
+  "name": "sports-01",
+  "category": "sports",
+  "folder": "Industries/Sports",
+  "orientation": "landscape",
+  "source": "bird_eye_level_group_of_men_playing_basketball.jpg"
+ },
+ {
+  "name": "sports-02",
+  "category": "sports",
+  "folder": "Industries/Sports",
+  "orientation": "landscape",
+  "source": "candid_realistic_documentary_photography_of_the_F.jpg"
+ },
+ {
+  "name": "sports-03",
+  "category": "sports",
+  "folder": "Industries/Sports",
+  "orientation": "landscape",
+  "source": "full_body_portrait_of_a_woman_sitting_in_training_clothes_holding_a_ball.jpg"
+ },
+ {
+  "name": "sports-04",
+  "category": "sports",
+  "folder": "Industries/Sports",
+  "orientation": "landscape",
+  "source": "olympic_games_2024_paris_audience_sits.jpg"
+ },
+ {
+  "name": "supermarket-02",
+  "category": "supermarket",
+  "folder": "Industries/Supermarket",
+  "orientation": "landscape",
+  "source": "chuttersnap-6xB6mxsLTV0-unsplash.jpg"
+ },
+ {
+  "name": "supermarket-03",
+  "category": "supermarket",
+  "folder": "Industries/Supermarket",
+  "orientation": "portrait",
+  "source": "eduardo-soares-ouNWk-_iTmM-unsplash.jpg"
+ },
+ {
+  "name": "supermarket-04",
+  "category": "supermarket",
+  "folder": "Industries/Supermarket",
+  "orientation": "landscape",
+  "source": "unsplash_41MdO-d85lM.png"
+ },
+ {
+  "name": "supermarket-05",
+  "category": "supermarket",
+  "folder": "Industries/Supermarket",
+  "orientation": "landscape",
+  "source": "unsplash_6djmntSYfoE.png"
+ },
+ {
+  "name": "supermarket-06",
+  "category": "supermarket",
+  "folder": "Industries/Supermarket",
+  "orientation": "portrait",
+  "source": "unsplash_AqRlWY6-lR8.png"
+ },
+ {
+  "name": "supermarket-07",
+  "category": "supermarket",
+  "folder": "Industries/Supermarket",
+  "orientation": "portrait",
+  "source": "unsplash_GNISAgm05kQ.png"
+ },
+ {
+  "name": "supermarket-08",
+  "category": "supermarket",
+  "folder": "Industries/Supermarket",
+  "orientation": "landscape",
+  "source": "unsplash_ZpIskW1Tuvc.png"
+ },
+ {
+  "name": "sustainability-01",
+  "category": "sustainability",
+  "folder": "Industries/Sustainability",
+  "orientation": "square",
+  "source": "aerial_birds_eye_view_photograph_of_reforestation_4b07336f-76fb-4eba-acd5-dbcbff47a1f0_3.png"
+ },
+ {
+  "name": "sustainability-02",
+  "category": "sustainability",
+  "folder": "Industries/Sustainability",
+  "orientation": "landscape",
+  "source": "shutterstock_1785765950.jpg"
+ },
+ {
+  "name": "sustainability-03",
+  "category": "sustainability",
+  "folder": "Industries/Sustainability",
+  "orientation": "landscape",
+  "source": "shutterstock_756780151.jpg"
+ }
+]

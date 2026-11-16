@@ -1,0 +1,410 @@
+{
+ "title": "Appinio for brand teams",
+ "style": "master",
+ "slides": [
+  {
+   "type": "cover",
+   "title": "Appinio for\nbrand teams",
+   "subtitle": "Capabilities 2026",
+   "photo": "audience-event"
+  },
+  {
+   "type": "agenda",
+   "chapters": [
+    "Who we are",
+    "How we work",
+    "What it costs",
+    "Next steps"
+   ]
+  },
+  {
+   "type": "chapter",
+   "title": "Who we are"
+  },
+  {
+   "type": "statement",
+   "lines": [
+    "Research that keeps",
+    "pace with [[your market]]"
+   ],
+   "gradient": "bloom-index"
+  },
+  {
+   "type": "stat_mosaic",
+   "statement": "Appinio is your consumer research partner, helping you make better decisions",
+   "cards": [
+    {
+     "icon": "rocket",
+     "text": "Europe’s fastest-growing market research company"
+    },
+    {
+     "value": "3,000+",
+     "text": "Brands trust us with their research"
+    },
+    {
+     "icon": "globe",
+     "text": "Fieldwork in 90+ markets"
+    }
+   ]
+  },
+  {
+   "type": "highlights",
+   "title": "Highlights 2025",
+   "figures": [
+    {
+     "value": "2B+",
+     "label": "Opinions collected"
+    },
+    {
+     "value": "190+",
+     "label": "Markets"
+    },
+    {
+     "value": "38M+",
+     "label": "Consumers in the panel"
+    },
+    {
+     "value": "91",
+     "label": "Net Promoter Score"
+    },
+    {
+     "value": "3,000+",
+     "label": "Client teams"
+    },
+    {
+     "value": "8",
+     "label": "Offices"
+    }
+   ]
+  },
+  {
+   "type": "timeline",
+   "title": "Ten years of faster research",
+   "subtitle": "Our story",
+   "events": [
+    {
+     "title": "Founded",
+     "date": "2014",
+     "text": "Hamburg"
+    },
+    {
+     "title": "First 100 clients",
+     "date": "2016"
+    },
+    {
+     "title": "Global panel",
+     "date": "2019",
+     "text": "90+ markets"
+    },
+    {
+     "title": "Appinio Boards",
+     "date": "2022"
+    },
+    {
+     "title": "Appinio AI",
+     "date": "2025",
+     "text": "AI-assisted analysis"
+    }
+   ]
+  },
+  {
+   "type": "comparison",
+   "title": "Do you need research that keeps up with your decisions?",
+   "body": "Traditional studies take weeks and arrive after the decision is made.\nWith Appinio your team gets representative answers in days, with experts on hand.",
+   "old": {
+    "items": [
+     "Weeks of fieldwork",
+     "Fixed packages",
+     "Static PDF reports"
+    ]
+   },
+   "new": {
+    "items": [
+     "Results in days",
+     "Flexible, credit-based pricing",
+     "Live dashboards and expert support"
+    ]
+   }
+  },
+  {
+   "type": "chapter",
+   "title": "How we work"
+  },
+  {
+   "type": "steps",
+   "title": "From question to decision in four steps",
+   "subtitle": "Our approach",
+   "steps": [
+    {
+     "title": "Brief",
+     "text": "Your objectives and hypotheses, agreed in one call."
+    },
+    {
+     "title": "Design",
+     "text": "Questionnaire drafted and scripted within two days."
+    },
+    {
+     "title": "Fieldwork",
+     "text": "Representative answers from our panel in days."
+    },
+    {
+     "title": "Insights",
+     "text": "Dashboard, report and a live debrief with our experts."
+    }
+   ]
+  },
+  {
+   "type": "growth",
+   "title": "How we grow your brand with research",
+   "subtitle": "Growth plan",
+   "steps": [
+    {
+     "title": "Define objectives",
+     "text": "Clarify goals and the KPIs that matter."
+    },
+    {
+     "title": "Find the audience",
+     "text": "Pinpoint who to win and what they want."
+    },
+    {
+     "title": "Run research",
+     "text": "Gather insights in days, not weeks."
+    },
+    {
+     "title": "Shape solutions",
+     "text": "Turn data into clear, actionable moves."
+    },
+    {
+     "title": "Implement",
+     "text": "Roll out with precision and speed."
+    },
+    {
+     "title": "Measure",
+     "text": "Track, learn and optimize."
+    }
+   ]
+  },
+  {
+   "type": "from_to",
+   "title": "Research without the trade-offs",
+   "subtitle": "Our vision",
+   "rows": [
+    [
+     "Surveys written in a week",
+     "Surveys built in a morning"
+    ],
+    [
+     "Fieldwork over weeks",
+     "Fieldwork in days"
+    ],
+    [
+     "Data in spreadsheets",
+     "Insights in live dashboards"
+    ],
+    [
+     "Agencies stuck in execution",
+     "Experts focused on your strategy"
+    ]
+   ]
+  },
+  {
+   "type": "donut_split",
+   "value": 73,
+   "caption": "of clients repeat within six months",
+   "bullets": [
+    "Fast turnaround",
+    "Expert support",
+    "Representative samples",
+    "Transparent pricing"
+   ]
+  },
+  {
+   "type": "text_images",
+   "title": "Insights you can act on",
+   "subtitle": "What you get",
+   "points": [
+    {
+     "headline": "Customised research solutions",
+     "text": "Studies built around your question, not a fixed package."
+    },
+    {
+     "headline": "Agility and efficiency",
+     "text": "Results in days, so research keeps pace with decisions."
+    },
+    {
+     "headline": "Expert guidance",
+     "text": "Researchers on hand from brief to debrief."
+    }
+   ],
+   "photos": [
+    "workshop-meeting",
+    "team-working",
+    "woman-laptop-cafe"
+   ]
+  },
+  {
+   "type": "gradient_cards",
+   "title": "Our values",
+   "subtitle": "How to be an Appinioneer",
+   "cards": [
+    "Be positive",
+    "Show that you care",
+    "Own your results",
+    "Think 10x"
+   ],
+   "gradients": [
+    "focus-glow",
+    "mindshare",
+    "trendspotter",
+    "bloom-index"
+   ]
+  },
+  {
+   "type": "chapter",
+   "title": "What it costs"
+  },
+  {
+   "type": "table",
+   "title": "Pick the plan that fits your team",
+   "subtitle": "Pricing",
+   "highlight_column": 2,
+   "columns": [
+    "",
+    "Starter",
+    "Team",
+    "Enterprise"
+   ],
+   "rows": [
+    [
+     "Credits per year",
+     "5,000",
+     "20,000",
+     "Custom"
+    ],
+    [
+     "Studies",
+     "Self-serve",
+     "Self-serve + expert",
+     "Fully managed"
+    ],
+    [
+     "Markets",
+     "10",
+     "90+",
+     "90+"
+    ],
+    [
+     "Support",
+     "Email",
+     "Dedicated researcher",
+     "Research team"
+    ]
+   ]
+  },
+  {
+   "type": "team",
+   "title": "Meet the team",
+   "people": [
+    {
+     "name": "Jane Doe",
+     "role": "Research Director",
+     "email": "jane.doe@appinio.com",
+     "photo": "woman-laptop-cafe"
+    },
+    {
+     "name": "John Roe",
+     "role": "Senior Researcher",
+     "email": "john.roe@appinio.com",
+     "photo": "team-working"
+    },
+    {
+     "name": "Alex Poe",
+     "role": "Client Partner",
+     "email": "alex.poe@appinio.com",
+     "photo": "senior-woman-phone"
+    }
+   ]
+  },
+  {
+   "type": "thank_you",
+   "title": "Thank you!",
+   "photo": "talk-audience"
+  },
+  {
+   "type": "map",
+   "title": "Fieldwork wherever your customers are",
+   "subtitle": "Global reach",
+   "markers": [
+    {
+     "region": "North America",
+     "text": "USA, Canada, Mexico"
+    },
+    {
+     "region": "Europe",
+     "text": "30+ markets"
+    },
+    {
+     "region": "Asia",
+     "text": "Japan, India, SEA"
+    },
+    {
+     "region": "South America",
+     "value": 64,
+     "label": "Brazil"
+    },
+    {
+     "region": "Oceania",
+     "text": "Australia, NZ"
+    }
+   ]
+  },
+  {
+   "type": "markets",
+   "title": "One study, five markets",
+   "subtitle": "Market coverage",
+   "markets": [
+    {
+     "country": "Germany",
+     "value": "n = 1,000"
+    },
+    {
+     "country": "UK",
+     "value": "n = 1,000"
+    },
+    {
+     "country": "France",
+     "value": "n = 800"
+    },
+    {
+     "country": "Spain",
+     "value": "n = 800"
+    },
+    {
+     "country": "USA",
+     "value": "n = 1,500"
+    }
+   ]
+  },
+  {
+   "type": "case_study",
+   "headline": "Trustly uses Appinio’s insights to revolutionise utility bill payments",
+   "facts": {
+    "Industry": "Fintech",
+    "Geography": "United Kingdom",
+    "Method": "Usage & attitude"
+   },
+   "challenge": "Trustly needed to understand how UK consumers pay utility bills and what would make them switch.",
+   "approach": "A representative survey of 2,000 bill payers across the UK, fielded in five days.",
+   "impact_value": "+10%",
+   "impact_text": "Higher conversion after the new payment flow launched.",
+   "quote": "Appinio gave us the evidence to move fast with confidence.",
+   "quote_by": "Head of Marketing, Trustly"
+  },
+  {
+   "type": "disclaimer"
+  },
+  {
+   "type": "back_cover"
+  }
+ ]
+}
